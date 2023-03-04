@@ -16,8 +16,10 @@ conda activate ml-labs
 pip install -U scikit-learn
 # matplotlib
 pip install matplotlib
+# pandas
+pip install pandas
 ```
-scikit-learn: 1.0.2; matplotlib: 3.5.3
+scikit-learn: 1.0.2; matplotlib: 3.5.3; pandas: 1.3.5
 
 - DL
 
