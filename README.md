@@ -4,10 +4,14 @@
 
 Use **conda env** + **pip**
 
+```powershell
+conda create -n ml-labs python=3.7
+conda activate ml-labs
+```
+
 - ML
 
 ```powershell
-conda create -n ml-labs python=3.7
 # for scikit-learn
 pip install -U scikit-learn
 # matplotlib
