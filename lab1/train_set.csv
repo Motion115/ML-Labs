@@ -1,4 +1,4 @@
-MedInc,HouseAge,AveRooms,AveBedrms,Population,AveOccup,Latitude,Longitude,MedHouseVal
+median_income,house_age,avg_rooms,avg_bedrooms,block_population,avg_occupancy,latitude,longitude,house_value
 2.1736,29.0,5.485835694050992,1.1288951841359773,2237.0,3.168555240793201,38.52,-121.46,0.721
 6.3373,7.0,6.927083333333333,1.11328125,2015.0,2.6236979166666665,33.09,-117.23,2.796
 2.875,44.0,5.3933333333333335,1.0333333333333334,667.0,2.223333333333333,35.37,-119.04,0.827
