@@ -48,3 +48,14 @@ Other installments(if used), please list below(with specific version):
 # requiements.txt
 ```
 
+### On to monitor gpu stat on Windows
+
+```powershell
+pip install gpustat 
+gpustat -cp -i
+
+# watch -n 0.2 -d nvidia-smi is not compatible on windows
+```
+
+[ref](https://support.huaweicloud.com/intl/en-us/modelarts_faq/modelarts_05_0374.html)
+
