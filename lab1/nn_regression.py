@@ -32,10 +32,10 @@ class MultiLayerPerceptron(nn.Module):
         super().__init__()
         self.layers = nn.Sequential(
             nn.Linear(variables, 64),
-            #nn.ReLU(),
-            #nn.Linear(64, 32),
             nn.ReLU(),
-            nn.Linear(64, 1)
+            nn.Linear(64, 32),
+            nn.ReLU(),
+            nn.Linear(32, 1)
         )
 
     def forward(self, x):
@@ -53,7 +53,7 @@ def train(X, y):
     # Create dataset
     dataset = CaliforniaDataset(X, y, scale_data=False)
     trainloader = DataLoader(
-        dataset, batch_size=10, shuffle=True, num_workers=1)
+        dataset, batch_size=100, shuffle=True, num_workers=1)
     
     # Create model
     model = MultiLayerPerceptron(X.shape[1]).to(device)
@@ -64,7 +64,7 @@ def train(X, y):
     # Define optimizer
     optimizer = torch.optim.Adam(model.parameters(), lr=0.0001)
 
-    epochs = 10
+    epochs = 100
     # Train model
     for epoch in range(epochs):
         print(f'Epoch {epoch}')
@@ -82,12 +82,12 @@ def train(X, y):
                 print(f'Iteration {i}, Loss: {loss.item():.4f}')
     
     # Save model
-    torch.save(model.state_dict(), './lab1/model.pth')
+    torch.save(model.state_dict(), './lab1/model1.pth')
 
 def test(X, y):
     # Load model
     model = MultiLayerPerceptron(X.shape[1])
-    model.load_state_dict(torch.load('./lab1/model.pth'))
+    model.load_state_dict(torch.load('./lab1/model1.pth'))
     model.eval()
 
     # Evaluate model with R2 score
@@ -113,7 +113,7 @@ if __name__ == '__main__':
     y_test = test_data['house_value'].values
 
     # Train model
-    # train(X, y)
+    #train(X, y)
 
     # Test model
     print("test r2 score")
