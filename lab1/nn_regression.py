@@ -6,6 +6,8 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import r2_score
 import pandas as pd
 
+model_src_file = "./lab1/result/8-64-1.pth"
+
 class CaliforniaDataset(torch.utils.data.Dataset):
     '''
     Prepare the California dataset for regression
@@ -32,10 +34,10 @@ class MultiLayerPerceptron(nn.Module):
         super().__init__()
         self.layers = nn.Sequential(
             nn.Linear(variables, 64),
+            #nn.ReLU(),
+            #nn.Linear(64, 32),
             nn.ReLU(),
-            nn.Linear(64, 32),
-            nn.ReLU(),
-            nn.Linear(32, 1)
+            nn.Linear(64, 1)
         )
 
     def forward(self, x):
@@ -64,7 +66,7 @@ def train(X, y):
     # Define optimizer
     optimizer = torch.optim.Adam(model.parameters(), lr=0.0001)
 
-    epochs = 100
+    epochs = 120
     # Train model
     for epoch in range(epochs):
         print(f'Epoch {epoch}')
@@ -82,12 +84,12 @@ def train(X, y):
                 print(f'Iteration {i}, Loss: {loss.item():.4f}')
     
     # Save model
-    torch.save(model.state_dict(), './lab1/model1.pth')
+    torch.save(model.state_dict(), model_src_file)
 
 def test(X, y):
     # Load model
     model = MultiLayerPerceptron(X.shape[1])
-    model.load_state_dict(torch.load('./lab1/model1.pth'))
+    model.load_state_dict(torch.load(model_src_file))
     model.eval()
 
     # Evaluate model with R2 score
@@ -103,8 +105,8 @@ def test(X, y):
 
 if __name__ == '__main__':
     
-    train_data = pd.read_csv('./lab1/train_set.csv')
-    test_data = pd.read_csv('./lab1/test_set.csv')
+    train_data = pd.read_csv('./lab1/dataset/train_set.csv')
+    test_data = pd.read_csv('./lab1/dataset/test_set.csv')
     # X, y
     X = train_data.drop(['house_value'], axis=1).values
     y = train_data['house_value'].values
@@ -113,7 +115,7 @@ if __name__ == '__main__':
     y_test = test_data['house_value'].values
 
     # Train model
-    #train(X, y)
+    train(X, y)
 
     # Test model
     print("test r2 score")
