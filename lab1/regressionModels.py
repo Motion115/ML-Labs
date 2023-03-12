@@ -57,23 +57,53 @@ if __name__ == "__main__":
     print("test_X shape: ", test_X.shape)
     print("test_y shape: ", test_y.shape)
 
-    # use SGDRegressor
-    sgd = LinearRegression()
-    sgd.fit(X, y)
-    sgd_y_pred = sgd.predict(test_X)
-    sgd_r2 = r2_score(test_y, sgd_y_pred)
-    sgd_adj_r2 = adj_r2_score(sgd_r2, test_y.shape[0], test_X.shape[1])
-    print("SGDRegressor r2 score: ", sgd_r2)
-    print("SGDRegressor adjusted r2 score: ", sgd_adj_r2)
+    # define a dict to record the results
+    results = {
+        "LinearRegression": [],
+        "SGDRegressor": [],
+        "LassoCV": [],
+        "RidgeCV": [],
+        "LarsCV": [],
+        "ARDRegression": [],
+        "SVR": [],
+        "KNeighborsRegressor": [],
+        "DecisionTreeRegressor": [],
+        "GradientBoostingRegressor": [],
+        "MLPRegressor": []
+    }
 
-    # use gradient boosting regressor
-    gbr = GradientBoostingRegressor()
-    gbr.fit(X, y)
-    gbr_y_pred = gbr.predict(test_X)
-    gbr_r2 = r2_score(test_y, gbr_y_pred)
-    gbr_adj_r2 = adj_r2_score(gbr_r2, test_y.shape[0], test_X.shape[1])
-    print("GradientBoostingRegressor r2 score: ", gbr_r2)
-    print("GradientBoostingRegressor adjusted r2 score: ", gbr_adj_r2)
+    # define a dict of models
+    models = {
+        "LinearRegression": LinearRegression(),
+        "SGDRegressor": SGDRegressor(),
+        "LassoCV": LassoCV(),
+        "RidgeCV": RidgeCV(),
+        "LarsCV": LarsCV(),
+        "ARDRegression": ARDRegression(),
+        "SVR": SVR(),       
+        "KNeighborsRegressor": KNeighborsRegressor(p=3 , n_neighbors=5),
+        "DecisionTreeRegressor": DecisionTreeRegressor(),
+        "GradientBoostingRegressor": GradientBoostingRegressor(n_estimators=200, random_state=42),
+        "MLPRegressor": MLPRegressor(learning_rate="adaptive", hidden_layer_sizes=(16,), max_iter=4000, random_state=42),
+    }
+
+    # train and test the models
+    for name, model in models.items():
+        model.fit(X, y)
+        # record the train results
+        y_pred = model.predict(X)
+        results[name].append(mean_squared_error(y, y_pred))
+        results[name].append(r2_score(y, y_pred))
+        results[name].append(adj_r2_score(r2_score(y, y_pred), X.shape[0], X.shape[1]))
+        # record the test results
+        y_pred = model.predict(test_X)
+        results[name].append(mean_squared_error(test_y, y_pred))
+        results[name].append(r2_score(test_y, y_pred))
+        results[name].append(adj_r2_score(r2_score(test_y, y_pred), test_X.shape[0], test_X.shape[1]))
+
+    # results to csv, key are the row names
+    results = pd.DataFrame(results, index=["MSE_T", "R2_T", "Adjusted R2_T", "MSE", "R2", "Adjusted R2"])
+    results.to_csv("./lab1/result/results.csv", index=False)
 
 
 
