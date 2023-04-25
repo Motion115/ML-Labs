@@ -46,9 +46,11 @@ Other installments(if used), please list below(with specific version):
 
 ```
 # requiements.txt
+tqdm
+networkx
 ```
 
-### On to monitor gpu stat on Windows
+### On monitoring gpu stat (Windows)
 
 ```powershell
 pip install gpustat 
