@@ -74,6 +74,7 @@ if __name__ == "__main__":
     clf.generateMultiClassSVM(X_train, y_train)
     clf.fitMultiClassSVM(X_train)
     y_pred = clf.predictMultiClass(X_test)
-    accuracy = np.mean(y_pred == y_test)
+    # count the number of y_pred == y_test
+    accuracy = np.sum(y_pred == y_test) / len(y_test)
+    # accuracy = np.mean(y_pred == y_test) # a trick for calculating acc
     print(accuracy)
-    # predictions = clf.predict(X)

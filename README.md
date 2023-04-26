@@ -48,6 +48,7 @@ Other installments(if used), please list below(with specific version):
 # requiements.txt
 tqdm
 networkx
+cvxopt
 ```
 
 ### On monitoring gpu stat (Windows)
