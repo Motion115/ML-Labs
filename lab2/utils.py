@@ -4,8 +4,8 @@ def load_cora():
     train = pd.read_pickle('./processed/corax_train.pkl')
     test = pd.read_pickle('./processed/corax_test.pkl')
     #validation = pd.read_pickle('./processed/corax_validation.pkl')
-    X_train = train.iloc[:, :-1]
-    y_train = train.iloc[:, -1]
+    X_train = train.iloc[:1180, :-1]
+    y_train = train.iloc[:1180, -1]
     #X_validation = validation.iloc[:, :-1]
     #y_validation = validation.iloc[:, -1]
     X_test = test.iloc[:, :-1]
