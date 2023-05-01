@@ -1,1 +1,1 @@
-{"models": [{"id": 1, "name": "GCN_L1"}, {"id": 2, "name": "GCN_L2"}], "success": true}
+{"models": [{"id": 1, "name": "GCN_L1"}, {"id": 2, "name": "GCN_L2"}, {"id": 3, "name": "GAT_L2"}, {"id": 4, "name": "GAT_L3"}, {"id": 5, "name": "GCN_L1"}, {"id": 6, "name": "GCN_L2"}, {"id": 7, "name": "GraphSage"}, {"id": 8, "name": "GAT_L2"}, {"id": 9, "name": "GAT_L3"}], "success": true}

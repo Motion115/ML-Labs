@@ -9,3 +9,9 @@
 https://arxiv.org/pdf/1907.02237.pdf
 
 https://github.com/THUDM/Refined-cora-citeseer
+
+
+
+**可视化**：GNNLens，并用原始Cora数据集进行训练，对比训练结果（不直接用这次的数据集的原因是因为不好做成dgl格式的数据集）
+
+https://github.com/dmlc/GNNLens2
