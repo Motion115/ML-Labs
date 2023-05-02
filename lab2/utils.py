@@ -1,8 +1,9 @@
 import pandas as pd
-
+import os
 def load_cora():
-    train = pd.read_pickle('./processed/corax_train.pkl')
-    test = pd.read_pickle('./processed/corax_test.pkl')
+    root_path = os.path.dirname(os.path.abspath(__file__))
+    train = pd.read_pickle(root_path+'/processed/corax_train.pkl')
+    test = pd.read_pickle(root_path+'/processed/corax_test.pkl')
     #validation = pd.read_pickle('./processed/corax_validation.pkl')
     X_train = train.iloc[:1180, :-1]
     y_train = train.iloc[:1180, -1]
