@@ -468,12 +468,14 @@ X_train, y_train, X_test, y_test = load_cora()
 id3_tree = ID3DecisionTree(max_depth=3)
 id3_tree.fit(X_train, y_train)
 id3_predictions = id3_tree.predict(X_test)
-id3_accuracy = accuracy_score(y_test, id3_predictions)
 
-# 使用sklearn库中的决策树算法
+# 使用sklearn的DecisionTreeClassifier-ID3
 sklearn_tree = DecisionTreeClassifier(criterion='entropy', max_depth=3, random_state=42)
 sklearn_tree.fit(X_train, y_train)
 sklearn_predictions = sklearn_tree.predict(X_test)
+
+# 比较准确率
+id3_accuracy = accuracy_score(y_test, id3_predictions)
 sklearn_accuracy = accuracy_score(y_test, sklearn_predictions)
 
 print(f"Our ID3 DecisionTree Classifier accuracy: {id3_accuracy}")

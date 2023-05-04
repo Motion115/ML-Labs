@@ -80,12 +80,12 @@ if __name__ == "__main__":
     from utils import load_cora
     # 划分训练集和测试集
     X_train, y_train, X_test, y_test = load_cora()
-    # 使用我们的C45
+    # 使用手写实现的CART
     our_nb = DecisionTree(max_depth=3)
     our_nb.fit(X_train, y_train)
     our_predictions = our_nb.predict(X_test)
 
-    # 使用sklearn的朴素贝叶斯分类器
+    # 使用sklearn的DecisionTreeClassifier-CART
     sklearn_nb = DecisionTreeClassifier(criterion='gini', max_depth=3)
     sklearn_nb.fit(X_train, y_train)
     sklearn_predictions = sklearn_nb.predict(X_test)

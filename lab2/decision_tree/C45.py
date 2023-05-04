@@ -80,7 +80,7 @@ if __name__ == "__main__":
     from utils import load_cora
     # 划分训练集和测试集
     X_train, y_train, X_test, y_test = load_cora()
-    # 使用我们的C45
+    # 使用手写实现的C45
     our_nb = C45(max_depth=3)
     our_nb.fit(X_train, y_train)
     our_predictions = our_nb.predict(X_test)
