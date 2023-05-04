@@ -1,0 +1,1 @@
+{"models": [{"id": 1, "name": "GCN"}, {"id": 2, "name": "GraphSage"}, {"id": 3, "name": "GAT"}], "success": true}
