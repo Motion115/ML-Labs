@@ -1,7 +1,10 @@
 # 手写CART
 import numpy as np
 from tqdm import tqdm
-
+# to solve import issue
+import sys, os
+PROJ_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.append(os.path.join(PROJ_DIR))
 class CartDecisionTree:
     def __init__(self, max_depth=None, min_samples_split=2):
         # 最大深度

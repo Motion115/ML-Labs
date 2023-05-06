@@ -1,5 +1,9 @@
 # 手写贝叶斯分类算法，并给出和sklearn中库函数中贝叶斯算法的比较
 import numpy as np
+# to solve import issue
+import sys, os
+PROJ_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.append(os.path.join(PROJ_DIR))
 
 class NaiveBayesClassifier:
     def __init__(self):
