@@ -150,28 +150,28 @@ class ID3DecisionTree:
                 else:
                     node['left'] = self._build_tree(node['left']['X'], node['left']['y'])
                     node['right'] = self._build_tree(node['right']['X'], node['right']['y'])
+if __name__ == "__main__":
+    from utils import load_cora
+    from sklearn.metrics import accuracy_score
+    from sklearn.tree import DecisionTreeClassifier
+    X_train, y_train, X_test, y_test = load_cora()
 
-from utils import load_cora
-from sklearn.metrics import accuracy_score
-from sklearn.tree import DecisionTreeClassifier
-X_train, y_train, X_test, y_test = load_cora()
+    # 使用手写实现的ID3算法
+    id3_tree = ID3DecisionTree(max_depth=3)
+    id3_tree.fit(X_train, y_train)
+    id3_predictions = id3_tree.predict(X_test)
 
-# 使用手写实现的ID3算法
-id3_tree = ID3DecisionTree(max_depth=3)
-id3_tree.fit(X_train, y_train)
-id3_predictions = id3_tree.predict(X_test)
+    # 使用sklearn的DecisionTreeClassifier-ID3
+    sklearn_tree = DecisionTreeClassifier(criterion='entropy', max_depth=3)
+    sklearn_tree.fit(X_train, y_train)
+    sklearn_predictions = sklearn_tree.predict(X_test)
 
-# 使用sklearn的DecisionTreeClassifier-ID3
-sklearn_tree = DecisionTreeClassifier(criterion='entropy', max_depth=3)
-sklearn_tree.fit(X_train, y_train)
-sklearn_predictions = sklearn_tree.predict(X_test)
+    # 比较准确率
+    id3_accuracy = accuracy_score(y_test, id3_predictions)
+    sklearn_accuracy = accuracy_score(y_test, sklearn_predictions)
 
-# 比较准确率
-id3_accuracy = accuracy_score(y_test, id3_predictions)
-sklearn_accuracy = accuracy_score(y_test, sklearn_predictions)
+    print(f"Our ID3 DecisionTree Classifier accuracy: {id3_accuracy}")
+    print(f"sklearn ID3 DecisionTree Classifier accuracy: {sklearn_accuracy}")
 
-print(f"Our ID3 DecisionTree Classifier accuracy: {id3_accuracy}")
-print(f"sklearn ID3 DecisionTree Classifier accuracy: {sklearn_accuracy}")
-
-# Our ID3 DecisionTree Classifier accuracy: 0.359
-# sklearn ID3 DecisionTree Classifier accuracy: 0.359
+    # Our ID3 DecisionTree Classifier accuracy: 0.359
+    # sklearn ID3 DecisionTree Classifier accuracy: 0.359
