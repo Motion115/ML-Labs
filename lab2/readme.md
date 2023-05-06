@@ -1,17 +1,30 @@
 # ML-Lab2: Classification
 
-**dataset in this project**: A split of train, test and validation according to the suggested split from [CoraR dataset](https://github.com/THUDM/Refined-cora-citeseer). Note that the prediction label(i.e. y) is now a categorical value in the 303th dimension of the feature vector (as apposed to a separate one-hot vector in another file). Extraction of prediction label is required when loading this dataset.
+**成员**
+
+- 2051277 刘    欣 计算机科学与技术
+- 2051495 徐    奕 数据科学与大数据技术
+- 2051568 邹睿石 计算机科学与技术
 
 
 
-**CoraR dataset**: "We double-check the articles belong to Cora [Lu and Getoor, 2003] dataset in the original Cora [McCallum et al., 2000]. Among the 2,708 papers, 474 of them have a wrong title that can hardly be found on any academic search engines such as google scholar or aminer [Tang et al., 2008]. We manually searched for these papers based on other information like author, abstract, references and feature vectors in Cora. Finally, we figure out that 32 of the total 2,708 papers are duplicated papers that actually belong to 13 identical ones. 9 papers are absolutely missing and not able to trace. We recover the actual title of the rest 2,680 papers, and use their titles to generate their features. We apply averaged GLOVE-300 [Pennington et al., 2014] word vector for their titles(with stop words removed) and we add two dimensions expressing the length of the title, and the length of the title with stop words removed. This leads to a 302 dimension feature representation for each node in CoraR. The average and word embedding process can better reduce the effect of label information leak than using simple BOW vectors. As in [Hamilton et al., 2017, Chen et al., 2018], we split the 2,680 nodes into a training set of 1,180 nodes, a validation set of 500 nodes and a test set of 1,000 nodes."
+**代码文件结构说明**
 
-https://arxiv.org/pdf/1907.02237.pdf
+试验的核心部分
 
-https://github.com/THUDM/Refined-cora-citeseer
+- DL-GNN：（图）深度学习方法
+- sklearn-ML：调库实现机器学习方法
+- handwritten-ML：手写实现机器学习方法
+
+数据集：corpus中为CoraR数据集，processed是经过预处理的数据集
+
+可视化：visualization文件夹
 
 
 
-**可视化**：GNNLens，并用原始Cora数据集进行训练，对比训练结果（不直接用这次的数据集的原因是因为不好做成dgl格式的数据集）
+**Dataset in this project**: A split of train, test and validation according to the suggested split from [CoraR dataset](https://github.com/THUDM/Refined-cora-citeseer). Note that the prediction label(i.e. y) is now a categorical value in the 303th dimension of the feature vector (as apposed to a separate one-hot vector in another file). Extraction of prediction label is required when loading this dataset.
 
-https://github.com/dmlc/GNNLens2
+**Visualization**：Use GNNLens2, please find the dependencies in this [link](https://github.com/dmlc/GNNLens2).
+
+
+
