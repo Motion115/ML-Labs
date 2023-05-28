@@ -38,7 +38,10 @@ def load_image_vectors(dir):
     X = []
     y = []
     for element in corpus:
-        X.append(element['vector'])
+        vec = element['vector']
+        # normalize
+        vec = vec / np.linalg.norm(vec)
+        X.append(vec)
         y.append(element['label_id'])
 
     # turn X, y into numpy array
