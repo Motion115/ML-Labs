@@ -1,8 +1,7 @@
 /course data
 /backup data
 
-.gitignore
 
 **/__pycache__
 
-**/enrico
+/.history
