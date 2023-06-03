@@ -40,16 +40,7 @@ pip install ./torchvision-0.14.1+cu117-cp37-cp37m-win_amd64.whl
 
 Other dependencies will be installed on the fly.
 
-### Other Dependencies
-
-Other installments(if used), please list below(with specific version):
-
-```
-# requiements.txt
-tqdm
-networkx
-cvxopt
-```
+The dependencies list is not complete.
 
 ### On monitoring gpu stat (Windows)
 
@@ -59,6 +50,4 @@ gpustat -cp -i
 
 # watch -n 0.2 -d nvidia-smi is not compatible on windows
 ```
-
-[ref](https://support.huaweicloud.com/intl/en-us/modelarts_faq/modelarts_05_0374.html)
 
