@@ -506,7 +506,7 @@ Entrega rapido comforme prometido
 Comforme a imagem.",0
 Tudo ocorreu de forma eficiente,0
 O produto chegou antes do prazo e em perfeitas condições. ,0
-"O pedido não foi entregue no meu endereço, paguei pelo frente e tive que ir até o centro de distribuição retirar meu pedido. Falta de respeito pagar pra receber em casa e não receber.",0
+"O pedido não foi entregue no meu endereço, paguei pelo frente e tive que ir até o centro de distribuição retirar meu pedido. Falta de respeito pagar pra receber em casa e não receber.",-1
 "O produto não corresponde ao que eu comprei, a película é muito menor que a tela do celular e não cobre toda a tela.",0
 "produto conforme anunciado, e veio antes do prazo...perfeito",0
 Produto bom e entregue antes do previsto.,0
@@ -1474,7 +1474,7 @@ a quase um mês foi feito o pedido do relógio e pago via boleem se quer to e at
 "Uma das peças que comprei não veio,veio a caixinha vazia,mas a outra veio certo.",0
 Comprei e paguei o produto ha mais de 20 dias e ainda não recebi o mesmo.,0
 "Achei o frete meio caro, por ser um produto leve.
-A capa atrapalha um pouco o uso do sensor biometrico e é dificil retirar a ultima camada da pelicula, durante a aplicação;",0
+A capa atrapalha um pouco o uso do sensor biometrico e é dificil retirar a ultima camada da pelicula, durante a aplicação;",-1
 entregou muito antes do prazo estimado.,0
 "Entrega rápida, só que a lixadeira que me mandaram foi diferente da qual eu comprei e colocaram um bilhete dizendo que o modelo que eles me enviaram era o mais atual.
 ",0
@@ -1870,7 +1870,7 @@ Entregou dentro do prazo e conforme solicitado. Muito bom!!,0
 Muito bom,0
 Gostei do serviço e prazo de entrega ,0
 "Apesar da demora dos correios,adoro comprar nas lojas lannister ",0
-Não entregou o produto e não entrou em contato.,0
+Não entregou o produto e não entrou em contato.,-1
 "O produto confere com as imagens da loja virtual, mas me decepcionei porque esperava que ao menos o pedestal fosse em metal e não em plástico, sem muita firmeza.",0
 "Eu recomedaria a lannister diversas vezes, mas nao por este produto. Infelizmente ele veio amassado e com pequenos defeitos ao longo do produto. ",0
 "Recebido antes do prazo, recomendo.",0
@@ -2500,7 +2500,7 @@ Nota 10,0
 Meu produto veio faltando com 5 quantidades e apenas recebi 4 e ninguém me atende no sac ou me da alguma satisfação ,0
 Top,0
 Não é possível tanta falta de atenção uma demora tremenda para receber o produto pra quando chegar vim errado e agora o q faço ???,0
-"Mosquiteiro bom. Na foto não parecia ter elástico e tem. Precisa encaixar ao redor da cama, senão ele se junta todo no meio. Tamanho é grande pra cama de solteiro. Casal mais caro e mesmo tamanho.",0
+"Mosquiteiro bom. Na foto não parecia ter elástico e tem. Precisa encaixar ao redor da cama, senão ele se junta todo no meio. Tamanho é grande pra cama de solteiro. Casal mais caro e mesmo tamanho.",-1
 "Estou decepcionado coma demora na entrega. e a falta de satisfação, ou explicação da loja",0
 OTIMA ,0
 "Bom amei o produto
@@ -2569,7 +2569,7 @@ Marca como entregue 2 produtos....mas na realidade recebi apenas 1....Falta tape
 "muito bom, entregue antes do prazo",0
 "Faz dois dias que o prazo da entrega venceu e o produto ainda não chegou, inclusive já foi pago parcela no cartão de crédito.",0
 "Vei junto com o controle 4 pilhas AA, mas o controle usa duas pilhas maiores.",0
-Comprei o jogo com 3 peças e me mandaram com 2 está errado to tentando entrar em contato com a lannister mais eles não respondem meus e-mail quero que seja feita a troca e não quero vale comprar ,0
+Comprei o jogo com 3 peças e me mandaram com 2 está errado to tentando entrar em contato com a lannister mais eles não respondem meus e-mail quero que seja feita a troca e não quero vale comprar ,-1
 Chegou um creme para mãos fps 15 ao invés do produto que comprei.,0
 "o único problema é que no anuncio não fala se é de ilhós ou tiras, acabei comprando achando que fosse de ilhós e infelizmente não era,. pois deveria constar no anuncio. Mas o produto é bom.",0
 "Foi entregue somente um dos transformadores, entregue o de 3500 va e falta o transformafor de 5000va",0
@@ -4157,7 +4157,7 @@ ATENDIMENTO EXCELENTE,0
 A entrega atrasou,0
 OK,0
 Entregue dentro do prazo e bom preço.,0
-Só achei a bíblia um pouco cara pelo tamanho ,0
+Só achei a bíblia um pouco cara pelo tamanho ,-1
 lindo! entrega rapida!,0
 "Comprei 4 itens, porém, chegou somente 1, o pior é que com a nota fiscal dos 4 que eu havia comprado como se naquela embalagem estivesse todos itens. 
 
@@ -4463,7 +4463,7 @@ Nunca me decepcionou!! ,0
 Antes do Prazo!,0
 Bom produto. Boa entrega. Tudo certo. Recomendo.,0
 Muito bom produto ,0
-Ainda não recebi o produto já mandei e-mail e já entrei em contato com o fale conosco 3 vezes e ainda sem resposta. Decepcionada com a stark.,0
+Ainda não recebi o produto já mandei e-mail e já entrei em contato com o fale conosco 3 vezes e ainda sem resposta. Decepcionada com a stark.,-1
 "Achei Q desta vez,o produto deixou a desejar,muito fraco demas",0
 "Entregaram o produto certo e no prazo, só deixaram a desejar um pouco na comunicação com o site das lannister, pois no site não mostrava as atualizações de rastreio, fora isso a entrega foi feita.",0
 "o produto que comprei chegou antes do prazo e da forma como mostra as ilustrações do site, muito bom, recomendo a todos que querem agradar alguém especial.",0
@@ -5030,7 +5030,7 @@ Foi muito bom comprar com vocês,0
 Recebi tudo conforme foi conbinado,0
 "Parece que o produto não foi testado antes de sair da loja, tempo de espera perdido, produto defeituoso.",0
 parabens chegou em tempo abel,0
-"Recebi o produto errado, ao tentar entrar em contato com a stark não obtive sucesso. Tentei entrar em contato com a empresa parceira do sub Marino e tb não consegui. o telefone restrado no CNPJ na",0
+"Recebi o produto errado, ao tentar entrar em contato com a stark não obtive sucesso. Tentei entrar em contato com a empresa parceira do sub Marino e tb não consegui. o telefone restrado no CNPJ na",-1
 "Gostei do produto, de boa qualidade, bonito, recomendo.",0
 "Lençol de baixa qualidade, transparente, produto descartável ",0
 A loja entregou o produto antes do prazo combinado. Fiquei muito satisfeito com o produto,0
@@ -5629,7 +5629,7 @@ fui bem atendido em todos aspecto parabens,0
 " Recebi o produto no tempo determinado, sem nenhum problema e produto de ótima qualidade.",0
 porque recebi o e mail dizendo que nao iria receber o produto mas no dia sequinte ele apareceu,0
 otimo,0
-O produto veio diferente do que eu pedi paguei frete é tive de ir aos Correios em uma agência muito distante de casa ,0
+O produto veio diferente do que eu pedi paguei frete é tive de ir aos Correios em uma agência muito distante de casa ,1
 Gostei muito do atendimento prestado,0
 RECOMENDO,0
 "recebi os 2 produtos sim recomendo a todos voces esta de parabeis nota 10
@@ -5866,7 +5866,7 @@ Atraso na entrega,0
 Estou satisfeita ,0
 "Produto excelente, entregue antes do prazo... recomendo!!",0
 Quando o produto chegou percebi que não era combativel com windows 10. Estou ha 4 dias tentando falar com o SAC para saber o procedimento para trocar por um outro do proprio site da lannister.,0
-paguei o frete e tive que ir buscar do outro do mundo errado tem que entrega em casa,0
+paguei o frete e tive que ir buscar do outro do mundo errado tem que entrega em casa,-1
 "Veio apenas 1 travesseiro e comprei 2. Na nota veio como 2 produtos, mas não recebi. Liguei na empresa e me disseram que ainda irei receber o outro e até agora não recebi. Estou aguardando. ",0
 "Das cinco cadeiras que comprei chegaram somente duas com acabamento em tecido, o pedido foi feito com acabamento em corino...
 ",0
@@ -6213,7 +6213,7 @@ Muito bom...,0
 "ainda não recebi o produto acredito que não seja culpa do vendedor e sim dos correios , e estou com urgência 
 
 o produto se encontra parado nos correiros na data de 01/05/17 ",0
-Comprei 2produtos e só recebi 1 estou aguardando e ate agora ja tentei entrar em contato e nada ainda,0
+Comprei 2produtos e só recebi 1 estou aguardando e ate agora ja tentei entrar em contato e nada ainda,-1
 Chegou antes do prazo👍🏼 Muito bom ,0
 "Apesar de estar no prazo de entrega, a falta de informações quanto ao andamento de postagem do produto deixou a desejar, somente me encaminharam quando havia desistido da compra.",0
 "Até a data presente não recebi meu produto,muito demorado,estou arrependida de ter feito a compra.",0
@@ -6315,7 +6315,7 @@ Entrega rápida e produto em perfeito estado!,0
 
 
 
-",0
+",2
 "Estou indignada. É o presente de natal do eu filho ,comprei com antecedência e não chegou. ",0
 "Recomendo, chegou na data certa.",0
 Não entregaram o pedido,0
@@ -6933,7 +6933,7 @@ Meu produto nunca chegou. Péssimo. Revoltada.,0
 "Peças lindas, feitas com muita delicadeza, adorei o brinde. Gratidão pelo elefantinho e o cartão com palavras tão carinhosas. ",0
 Interesse em agradar o cliente e ótima mercadoria,0
 "Muito bacana, a cor muito linda ficou ótimo no meu banheiro! Assento macio combinado com uma linda cor!",0
-Único ponto negativo é que achei o tamanho pequeno e o tabuleiro não fica fixamente reto. ,0
+Único ponto negativo é que achei o tamanho pequeno e o tabuleiro não fica fixamente reto. ,2
 Produto corresponde ao pedido. Ótima qualidade.,0
 "Gostei muito do produto.
 Ideal pra pequenos espaços.
@@ -7136,7 +7136,7 @@ Muito bom entrega rápida e garantida,0
 Otimo,0
 Não recebi ainda esse pedido,0
 "Mochila muito grande, minha filha adorou.",0
-"Até o momento não recebi meu produto. Tento entrar em contato com a Lojas lannister e não consigo. O site dos Correios, empresa contratada para a entrega, não atualiza o status da entrega desde dia 1",0
+"Até o momento não recebi meu produto. Tento entrar em contato com a Lojas lannister e não consigo. O site dos Correios, empresa contratada para a entrega, não atualiza o status da entrega desde dia 1",-1
 "A entrega demorou um pouco, mas dentro do prazo. O produto é bom !",0
 "ENTREGA MUITO DEMORADA, PESSIMA",0
 "Ótima loija produto entregue dentro do prazo,Produto muito bom",0
@@ -7869,14 +7869,14 @@ Ressalva: consta na transportadora que não havia ninguém na casa, o vizinho ao
 Opinião eu não tenho ainda pois ainda não recebi a minha mercadoria,0
 "O produto é de boa qualidade, mas veio errado",0
 Entrega super rápida!,0
-"Fiz a compra de 2 pendentes e recebi somente um fui retirar no correio da minha cidade e lá fui informada que havia somente uma ordem no pedido para ser retirado,estou tentando ligaar e não consigo.",0
+"Fiz a compra de 2 pendentes e recebi somente um fui retirar no correio da minha cidade e lá fui informada que havia somente uma ordem no pedido para ser retirado,estou tentando ligaar e não consigo.",-1
 Muito boa a loja,0
 "O Produto esta com a ntrega atrasada,mesmo ,mesmo com o prazo de 1 mes para entrega. 
 Enviei e-mail e tambem não obtive retorno.
 Comprei o produto em outra loja, devido a necessidade de utilização.",0
 esta tudo coreto oque eu pedi ,0
 "Bom diaaa
-Já enviei vários e-mails dizendo que quero trocar o produto pois veio na cor errada e o outro produto que comprei junto com esse não chegou. amanhã vou tentar resolver junto ao PROCON ",0
+Já enviei vários e-mails dizendo que quero trocar o produto pois veio na cor errada e o outro produto que comprei junto com esse não chegou. amanhã vou tentar resolver junto ao PROCON ",-1
 "um pouco de demora para postar, mas a maior demora é dos correios, que presta um péssimo serviço para os cloentes",0
 sem problemas. recomendo,0
 "Entrega dentro do prazo , gostei muito do produto",0
@@ -9660,7 +9660,7 @@ excelente,0
 O produto não funciona.,0
 Minha filha adorou linda lancheira recomendo,0
 gosyei muito,0
-"Achei sincero o material pelo custo do produto. Minha esposa achou a mochila em si pequena. Seria legal ter mais fotos e referencial para compara o tamanho. No geral, estamos satisfeitos!",0
+"Achei sincero o material pelo custo do produto. Minha esposa achou a mochila em si pequena. Seria legal ter mais fotos e referencial para compara o tamanho. No geral, estamos satisfeitos!",-1
 "Tudo certo, no prazo e o produto muito bom tb.",0
 "Produto bom! Entrega melhor ainda!
 ",0
@@ -10009,7 +10009,7 @@ Comprei um cartucho 60xl preto na mesma data na Americana fornecedor Inga Printi
 otimo ,0
 Ótima... recomendo,0
 Demorou muito para chegar!,0
-"Excelente , recebi o tel. antes do prazo citado em perfeita ordem , estou muito satisfeito e futuramente irei entrar em contato para solicitar uma bateria suplementar para o tel. obrigado abraço. ",0
+"Excelente , recebi o tel. antes do prazo citado em perfeita ordem , estou muito satisfeito e futuramente irei entrar em contato para solicitar uma bateria suplementar para o tel. obrigado abraço. ",-1
 Parabéns pela agilidade,0
 Não recomendo essa loja pra ninguém comprar porque não fiquei sartifeito com uma compra que fiz,0
 O produto chegou em perfeito estado ,0
@@ -10160,7 +10160,7 @@ pedido entregue no prazo,0
 Gostei da compra.,0
 "Chegou muito antes do previsto 
 Muito bem embalado e seguro ?",0
-"Pagamos caro para receber em casa (frete de R$95,00) e ainda não recebi o produto, não consigo retirar nos correios pois não deixaram o papel de retirada na minha casa. INSATISFEITA!!!!!",0
+"Pagamos caro para receber em casa (frete de R$95,00) e ainda não recebi o produto, não consigo retirar nos correios pois não deixaram o papel de retirada na minha casa. INSATISFEITA!!!!!",-1
 Amo a recomendo ,0
 Muito bonito. Vale a pena.,0
 "Mochila muito bonita,só imaginei que fosse menor.",0
@@ -10422,7 +10422,7 @@ Eu recomendo a loja.",0
 produto chegou pela metade,0
 "Entrega no prazo, preço justo! Recomendo. ",0
 "O produto foi para o lixo, não houve possibilidade de instalar. ",0
-"Produto entregue dentro do prazo, aliás bem antes da data final prevista.",0
+"Produto entregue dentro do prazo, aliás bem antes da data final prevista.",-1
 COM O ALINHAMENTO EFICAZ O RESULTADO É RAPIDEZ EM SUA OBRA.,0
 VEIO ATE RAPIDO E VEIO CERTINHO ,0
 Entregue antes do prazo,0
@@ -10678,7 +10678,7 @@ Não gostei da entrega está demorando muito.Essa empresa demora muito para entr
 O produto veio riscado e amassado....sendo que a embalagem está em perfeito estado. Já fiz uma reclamação e estou aguardando o contato para a que a troca do produto seja feito o mais rápido possível. ,0
 Atendimento de boa qualidade.,0
 "Comprei dois prudutos e achei caro o frete. Quando recebi eu entendi o motivo.
-Cada produto veio numa caixa separada do tamanho que caberia uns 10 produtos numa unica caixa. ",0
+Cada produto veio numa caixa separada do tamanho que caberia uns 10 produtos numa unica caixa. ",2
 Amei! A luminária é linda e enorme... Apaixonada ,0
 bem comprei um produto que custava 261.00 reais o melhor que eles tinham com o cartao de 32g . e me mandarão o pior que eles tinha era de 140.00 reais que vinha com cartão de 16g resumindo safados.!!!,0
 Cadê meu produto,0
@@ -11065,7 +11065,7 @@ Recebi o produto errado,0
 "Recebi meu produto antes do prazo. O cobertor é de excelente qualidade, estou muito satisfeita.",0
 Parece que foi vendido um produto indisponivel na loja,0
 "Um pouco de confusão na hora de entrega, mas tudo resolvido",0
-Estou um pouco decepcionada porque paguei um frete caro!agora recebo a notícia que terei que ir buscar no correio que fica do outro lado da cidade que moro!Paguei o frete para receber em casa!!Mas....,0
+Estou um pouco decepcionada porque paguei um frete caro!agora recebo a notícia que terei que ir buscar no correio que fica do outro lado da cidade que moro!Paguei o frete para receber em casa!!Mas....,-1
 Perfeito ,0
 Atendeu às expectativas,0
 "A única ressalva é a válvula ou torneirinha, que achei ser de baixa qualidade, no mais a Siqueira é bem interessante.",0
@@ -11302,7 +11302,7 @@ ok,0
 o que mata é o prazo da entrega! ,0
 "Em relação a ter uma chave simples como a do Versa e ter uma canivete como esta vale a pena, mais alguns detalhes pegam, a carcaça é de plástico e a indicação de abre fecha é mal impressa e desbota",0
 10,0
-"Entrei em contato solicitando a entrega um pouco antes do prazo estimado, pois não teria ninguém para receber no prazo, eles responderam minha solicitação e o produto chegou bem antes que o esperado.",0
+"Entrei em contato solicitando a entrega um pouco antes do prazo estimado, pois não teria ninguém para receber no prazo, eles responderam minha solicitação e o produto chegou bem antes que o esperado.",-1
 Empresa sem credibilidade.,0
 Produto bom,0
 Compro e recomendo.,0
@@ -12092,7 +12092,7 @@ Tudo certo ,0
 muito bom,0
 Gostei muito do relógio. Era isso mesmo que eu queria. Somente o manual deixa um pouco a desejar.,0
 "Essa folha simplesmente e maravilhosa além de linda, enchuga super bem.recomendo sim comprem por que compensa e muito",0
-Tive que buscar nos correios e paguei um frete caro.,0
+Tive que buscar nos correios e paguei um frete caro.,-1
 "so e curta dos lados, mas, melhor que nada né! até que ficou bonito obg!",0
 Eu comprei duas unidades e recebi uma unidade.,0
 "Recomendo 
@@ -12386,7 +12386,7 @@ LINDA!!!,0
 "Qualquer produto que eu compre com você ,recebo dentro do prazo e das qualificações.Continuem assim.É a seriedade do trabalho que fará o Brasil virar um país de excelência na prestação de serviços.",0
 Não recebi até agora o produto.J Á MANDEI DOIS EMAILS SOLICITANDO INFORMAÇÃO E NÃO ME RESPOSDERAM NADA.,0
 muito boom,0
-Estou ainda aguardando o produto que estava previsto para ser entregue no dia 22/08/2017 e hoje dia 24/08/2017 não chegou ainda até o presente momento.,0
+Estou ainda aguardando o produto que estava previsto para ser entregue no dia 22/08/2017 e hoje dia 24/08/2017 não chegou ainda até o presente momento.,-1
 chegou correto e rapido,0
 produto estragado. liguei na central de vcs e não obtive o retorno,0
 Só acho que a tarifa do correio está muito cara. Estou deixando de comprar devido ao frete. Recebi o que pedi no prazo.,0
@@ -12959,7 +12959,7 @@ Entrega no prazo e em perfeito estado...parabéns.,0
 O produto não foi entregue. Gostaria de saber a nova previsão de entrega. O processo de entrega está na situação de Nota Fiscal emitida desde 26/NOV/2017 sem ter nunca ido para transportadora.,0
 Boa,0
 "Só não foi melhor pois uma peça chegou avariada, o que muito provavelmente ocorreu durante o transporte...",0
-"Até no momento ninguém entrou em contato sobre o produto, não consigo rastrear o mesmo!",0
+"Até no momento ninguém entrou em contato sobre o produto, não consigo rastrear o mesmo!",-1
 Já comprei várias vezes nessa loja e recomendo!,0
 "Bom produto.
 ",0
@@ -13427,7 +13427,7 @@ Satisfeita com produto e entrega no prazo,0
 Comprei um modelo de relógio e acabei de receber outro produto ,0
 "Comprei um produto e recebi apenas um. Espero que seja resolvido logo, afinal eu paguei por doía, não um apenas.",0
 "Demorou quase um mes pra chegar.. E quando finalmente chegou, ele nao liga... ",0
-"Entrei em contato 2 vezes tentando verificar onde meu pedido estava que desde o dia 14 nao tenho atualizacao, e nem me foi respondido e ja passou a data limite, nunca mais!",0
+"Entrei em contato 2 vezes tentando verificar onde meu pedido estava que desde o dia 14 nao tenho atualizacao, e nem me foi respondido e ja passou a data limite, nunca mais!",-1
 Pedi o scuba veio o pro diver...mais gostei do produto. ,0
 Muito bom tudo!!,0
 "um pincel o de boca, veio com defeito",0
@@ -13442,7 +13442,7 @@ Não compraria de novo se for entregue pelo correio,0
 "Quando comprei o produto e paguei envio pensei que fosse receber o mesmo em casa.
 
 Recebi email mandando que fosse pegar nos correios. Não gostei dessa informação. 
-Fui buscar. Foi devilvido.",0
+Fui buscar. Foi devilvido.",-1
 "Super indico, chegou antes da data prevista e estava tudo certinho. Comprarei sempre.",0
 Entregue muito antes do prazo! Excelente! Loja muito atenciosa com o cliente. Recomendo!,0
 "Prezado senhor,
@@ -13707,7 +13707,7 @@ Infelizmente não cumpriram o prazo de entrega e nem é época de natal ou algo 
 "Mais de 30 dias de prazo para entregar.
 E não fizeram nem a entrega.
 Já tentei entrar em contato com a lannister e não tive nenhuma resposta.
-Estou entrando com um processo.",0
+Estou entrando com um processo.",-1
 "A bolsa e boa.
 Só o trocador que é muito pequeno.
 Recebi antes do prazo de entrega. ",0
@@ -14068,7 +14068,7 @@ Excelente loja . Produto entregue rapidamente !,0
 Chegou corretamente e antes do prazo! ,0
 Comprei um controle remoto e passados quase trinta dias ainda não o recebi.,0
 Normalmente parceiros das lojas entregam no limite do prazo. Porém recebi o produto em três dias. Na caixa recebi ainda um extensor de IR não mencionado que pensei que teria que comprar a parte.,0
-"Comprei 2 pendentes e tiver que ir buscar no correios , quando olha em casa tinha so 1 e outro cade?? Alem de eu paga o frete tenho ir longe buscar no correio , estou esperando resposta sobre o outro.",0
+"Comprei 2 pendentes e tiver que ir buscar no correios , quando olha em casa tinha so 1 e outro cade?? Alem de eu paga o frete tenho ir longe buscar no correio , estou esperando resposta sobre o outro.",-1
 "Tudo certinho, recomendo.",0
 Otimo produto. Igual a foto.,0
 Nada a acrescentar,0
@@ -15117,7 +15117,7 @@ Produto de excelente qualidade e chegou no prazo correto!,0
 É mt chato ter que ir nos correios para buscar . Nem em área de risco eu moro . 
 
 
-",0
+",-1
 Ótimo,0
 "Comprei por um produto, veio outro. Agora não consigo contato com a loja",0
 "A loja entregou o pedido correto, bem enbalado e antes do prazo previsto.",0
@@ -15300,7 +15300,7 @@ Entrega dentro do prazo e produto perfeito.,0
 o produto não chegou,0
 muito bom,0
 "Muito demorado para fazer o estorno do dinheiro,para comunicar que o produto não está disponível, fiquei muito chateada, desorganizado.Gostaria que fizessem o meu estorno o quanto antes e que isso nã ",0
-"A loja escolheu os correios como transportadora. Paguei frete pelo produto, pra o carteiro não ir ao local e colocar no sistema que foi e não tinha ninguém. Achei ridículo isso! ",0
+"A loja escolheu os correios como transportadora. Paguei frete pelo produto, pra o carteiro não ir ao local e colocar no sistema que foi e não tinha ninguém. Achei ridículo isso! ",-1
 Excelente,0
 Realizei a compra com quase um mês de antecedência e o vencedor foi postar o produto com menos de uma semana para o prazo de entrega. Além de realizar perguntar se estava tudo ok e não ser respondido.,0
 "Gostei de todo atendimento, só não gostei de ter que retirar no correio longe da minha casa, poderia ter entregado no correio mais próximo de casa. ",0
@@ -15869,7 +15869,7 @@ Bom,0
 "Boa qualidade, chegou mais de uma semana antes do prazo, até agora não deu qualquer problema.",0
 O site não informou que os cartuchos da impressora HP que comprei eram remanufaturados. Pensei que estava comprando o produto novo original. ,0
 Não recebi minha mercadoria ainda. Pois o prazo já passou e não recebi.,0
-Até o momento o produto não chegou na minha residência e a loja não entra em contato ,0
+Até o momento o produto não chegou na minha residência e a loja não entra em contato ,-1
 "O relógio é lindo, minha filha amou. ",0
 Chegou conforme anúncio.,0
 Chegou antes do prazo. Ótimo,0
@@ -16152,7 +16152,7 @@ Prazo de entrega absurdo e demora no retorno do vendedor,0
 A unica coisa que achei negativa é que o visor não tem iluminação.,0
 "LOJISTA OTIMO, PRODUTO ENTREGUE BEM ANTES DO PRAZO E MERCADORIA TAMBEM DE OTIMA QUALIDADE.",0
 "Entrega no prazo, produto correto! Recomendo",0
-Recebi até antes da data prevista. Chegou td em ordem,0
+Recebi até antes da data prevista. Chegou td em ordem,-1
 Muito bom não tive nem um problemão até hoje nem a minha esposa.. ,0
 Muito bom,0
 "Recomendo o vendedor. Não recebi no prazo devido a greve dos correios, mas o produto foi postado dentro do prazo! ",0
@@ -17021,7 +17021,7 @@ Rapidez é a alma do negocio,0
 Das 3 unidades compradas apenas duas foram entreguers,0
 Chegou antes do prazo. Boa qualidade.,0
 O produto a inda não chegou e não dá satisfação nenhuma,0
-Não recebi o produto e não consigo saber o porquê. Tentei falar com SAC e nao consegui falar com ninguém apenas msg eletrónica. Tentei cancelar a compra e o tb não consegui o site não permitia,0
+Não recebi o produto e não consigo saber o porquê. Tentei falar com SAC e nao consegui falar com ninguém apenas msg eletrónica. Tentei cancelar a compra e o tb não consegui o site não permitia,-1
 "Entregue no prazo, produto embalado corretamente.",0
 Não instalei ainda... mas o produto tem um bom acabamento... entrega rápida. ,0
 "Chegou muito rápido a mala, super recomendo ótima e resistente.
@@ -17234,7 +17234,7 @@ Recebi o produto, porém ele veio com apoio de braço, o que eu não havia pedid
 "Compro sempre nas lojas lannister, porque além dos preços dos produtos serem mais baratos quê nas outras lojas, à entrega é super rápida... Eles dão um prazo de quase um mês... E chega em 3 dias. ",0
 "Comprei dois unidades do produto, no entanto na embalagem que foi entregue no meu endereço só tem apenas um e na nota fiscal confirma que foi pago 2 como solicitado e efetuado no pedido, quero a soluc",0
 Produto chegou antes do prazo,0
-"O produto ficou 10 dias com status de aprovação de pagamento, enviei email duas vezes e não obtive resposta, tive que ligar no SAC para poderem entrar em contato com o vendedor para verem o pq?",0
+"O produto ficou 10 dias com status de aprovação de pagamento, enviei email duas vezes e não obtive resposta, tive que ligar no SAC para poderem entrar em contato com o vendedor para verem o pq?",-1
 Produto entregue dentro do prazo.,0
 Meu produto não foi entregue.,0
 "Eu não recebi o produto, daí a avaliação será negativa, invariavelmente.
@@ -17310,7 +17310,7 @@ Tudo transcorreu sem maiores problemas ,0
 Super recomendo, o relógio é ótimo era para presente de dia dos pais meu esposo adorou! Além de leve é mais bonito que na foto 😊 ",0
 Produto de ótima qualidade e entrega super rápida. ,0
 "Eu comprei um kit de 4 pneus e só veio 2 pneus.Eu quero saber o que vai ser? vocês vão me mandar o restante dos pneus, ou vão devolver meu dinheiro? 
-Eu já tinha mandado um email, mas não me responde",0
+Eu já tinha mandado um email, mas não me responde",-1
 No geral ocorreu tudo bem! ,0
 "entrega super rápida
 ",0
@@ -17433,7 +17433,7 @@ Adoro comprar nessa loja.. ,0
 "Ele é maravilhoso, muito bonito, amei <3",0
 "Chegou antes do prazo esperado, produto de qualidade, ótimo preço. Recomendo.",0
 "Apesar de ter sido entregue pelo Correio, o produto chegou dentro do prazo e em perfeito estado. Recomendo muito.",0
-"O produto veio faltando uma unidade, e ainda não consegui entrar em contato com ninguém para solucionar o problema. Gostaria de saber como vai ficar agora?...",0
+"O produto veio faltando uma unidade, e ainda não consegui entrar em contato com ninguém para solucionar o problema. Gostaria de saber como vai ficar agora?...",4
 Entrega super rápido e produto atende as necessidades de seu uso. Parabéns.,0
 produto veio com defeito,0
 "Tapetes de ótima qualidade, exatamente como esperava. Recomendo à todos.",0
@@ -17444,7 +17444,7 @@ Linda !,0
 "ATÉ HJ NAO RECEBI MEU PRODUTO E NAO SEI SE AINDA VAI CHEGAR,NOS EMAIL ENVIADOS NAO DESCREVE CLARAMENTE NADA",0
 Fiquei muito satisfeito com o trabalho realizado pela empresa. ,0
 "Ainda não usei o produto, mas a entrega gastou 17 dias para chegar! Ja comprei na lannister e chegou super rápido esse achei que demorou!",0
-Comprei o produto e está com 5 dias de atraso na entrega e ninguém entra em contato para explicar. Eu não consigo contato com a loja.,0
+Comprei o produto e está com 5 dias de atraso na entrega e ninguém entra em contato para explicar. Eu não consigo contato com a loja.,-1
 "NAO RECEBI O PRODUTO E NEM O DINHEIRO DE VOLTA.
 PRECISO DE UMA SOLUÇÃO URGENTE SE NÃO TEREI QUE IR AO PROCON",0
 Chegou apenas um dos produtos que comprei. ,0
@@ -18524,7 +18524,7 @@ Faltou o CD ou link pra baixar o windows que vem instalado assim como alguma com
 "O produto não é de boa qualidade.
 Estou arrependida em ter adquirido toalhas tão ruins. Estou acostumada com buddemeyer.
 Nao recomendo as toalhas citadas.",0
-"hoje 31/03/18 ainda não recebi minha mercadoria que estava prevista a entrega até o dia 28/03/18. Estou muito triste com esta situação, mas estou aguardando solução.",0
+"hoje 31/03/18 ainda não recebi minha mercadoria que estava prevista a entrega até o dia 28/03/18. Estou muito triste com esta situação, mas estou aguardando solução.",-1
 Não recebi a mercadoria toda por tanto não posso avaliar nem indicar,0
 Entregue antes do prazo,0
 "Produto chegou rápido, mas me parece que estava mal guardado por está com manchas e sujo. (me parece que estava no estoque faz tempo).",0
@@ -18880,7 +18880,7 @@ A compra chegou muito rapido,0
 "A entrega até o presente não ocorreu e já abri chamado no reclame aqui e ninguém me retorna ao meu ver uma grande falta de respeito com o cliente .
 Aguardo retorno urgente ",0
 Não recebi o produto nem satisfação da empresa quanto ao ocorrido. ,0
-COMPREI VARIOS LUSTRES E TIVEUM PROBLEMINHA C ESSE Q TIVE Q IR RETIRAR NO CORREIO PQ A CAIXA ESTAVA VIOLADA NAO VEIO NOTA NEM MANUAL COMO OS OUTROS VIERAM DEIXOU A DESEJAR E M DEU O TRABALHO D IR LA,0
+COMPREI VARIOS LUSTRES E TIVEUM PROBLEMINHA C ESSE Q TIVE Q IR RETIRAR NO CORREIO PQ A CAIXA ESTAVA VIOLADA NAO VEIO NOTA NEM MANUAL COMO OS OUTROS VIERAM DEIXOU A DESEJAR E M DEU O TRABALHO D IR LA,1
 Veio número errado veio cor errada nao recomendo gostaria de compra mais nao confio no vendedor,0
 adorei pano muito bom,0
 "As vezes acesso o site de uma determinada loja, seleciono o produto e vejo que não é vendido por aquela loja, desistindo da compra. Mas é por parceiros como este que não mais farei isso. Recomendo.",0
@@ -19100,7 +19100,7 @@ O produto chegou muito rápido! Recomendo!,0
 Recebi o produto em menos tempo que o esperado mas não atendeu 100% das minhas demandas. A alça veio estragada e o tubo é difícil de lacrar de verdade ,0
 Recomendo,0
 muito bom,0
-"foi entregue antes da data prevista, claro pois o prazo de entrega é de 13 úteis, com isso um produto comprado em 01/09/2017 chegará até 17/09/2017, evita problemas da empresa, mas o meu chegou em 7 d",0
+"foi entregue antes da data prevista, claro pois o prazo de entrega é de 13 úteis, com isso um produto comprado em 01/09/2017 chegará até 17/09/2017, evita problemas da empresa, mas o meu chegou em 7 d",-1
 Comprei pela primeira vez pra nunca mais. Decepcionadx. ,0
 Foi entregue apenas a toalha de mesa até o momento. Faltam os panos de prato e capacho. ,0
 "Entrega rápida em perfeitas condições, bem embalado. Recomendo. ",0
@@ -19180,7 +19180,7 @@ Tudo exatamente como eu esperava. Vou comprar mais já! ,0
 "Chegou aqui ao invés do reparador de pneus, um kit de para brisas, totalmente fora do contexto.
 Sem controle de qualidade total.",0
 Chegou muito antes do prazo e tudo certinho.,0
-"Péssimo, estou tentando entrar em contato e não consigo falar com ninguém, vou no Procon.",0
+"Péssimo, estou tentando entrar em contato e não consigo falar com ninguém, vou no Procon.",-1
 chegou direitinho.,0
 Recebi bem antes do prazo ..,0
 "Entrega do produto diferente do solicitado
@@ -19551,7 +19551,7 @@ A entrega antes do prazo e o produto original. Excelente compra.,0
 "Recebi tudo perfeitamente, 20 dias antes do prazo determinado. Só não posso avaliar o produto ainda, pois ainda estou utilizando o último toner que eu tinha.",0
 O produto não foi recebido no prazo sem nenhuma justificativa explicando o motivo do atraso,0
 O produto chegou rasgado ,0
-Recebi o produto incompleto!! Realizei a compra de.2 portas-retratos e no entanto só veio 1 porta retrato no pacote. Estou tentando entrar em contato com lannister . com e não consigo resolver.,0
+Recebi o produto incompleto!! Realizei a compra de.2 portas-retratos e no entanto só veio 1 porta retrato no pacote. Estou tentando entrar em contato com lannister . com e não consigo resolver.,3
 "Bom dia!
 
  Gostaria que a entrega fosse mais ágil.",0
@@ -19780,7 +19780,7 @@ Recebi bem antes do prazo!! Recomendo 100%,0
 Chegou td perfeito e antes do prazo,0
 "Fiz essa comora p um controle de smart tv conforme pedido, vcd encaminharam um outro controle q nao tem a opção da smart tv. Sendo assim inútil a compra!!!",0
 Ainda não instalei. Mas tanto a cuba quanto a torneira são lindas. Vieram no prazo e muito bem embaladas.,0
- O produto não foi entregue em minha casa tive que ir no correio para buscar Paguei o frete mais o correio não entregou na minha casa tive q ir buscar você deveria questionar o serviço dos correios ,0
+ O produto não foi entregue em minha casa tive que ir no correio para buscar Paguei o frete mais o correio não entregou na minha casa tive q ir buscar você deveria questionar o serviço dos correios ,1
 "Produto bem embalado e em perfeitas condições, entrega rápida. ",0
 "produto bom, atendeu minhas expectativas, entregue dentro do prazo. Essa loja me surpreendeu",0
 vendeiro um produto que não tinh\a,0
@@ -20049,7 +20049,7 @@ bom,0
 "A loja fez a sua parte qto ao prazo de entrega e entrega do produto, so acho q deveria avaliar a eficácia do produto antes de por a venda ...NÃO RECOMENDO O PRODUTO, não realiza o q é proposto.",0
 tudo conforme o anúncio ,0
 "Bom preço, mais muita demora na entrega do produto.",0
-"Não solicitei cancelamento de pedido, queriam entregar o produto nos correios, mas paguei frete para receber em casa. Recebi vários email que não correspondem à verdade dos fatos.",0
+"Não solicitei cancelamento de pedido, queriam entregar o produto nos correios, mas paguei frete para receber em casa. Recebi vários email que não correspondem à verdade dos fatos.",-1
 Eu só acho que poderia levar menos tempo foram quase 20 dias para os produtos chegarem.,0
 " Porque vocês não ligam pra sabe? vocês estão malucos por dinheiro, não querem atender os clientes,o que ta acontecendo? pedi mil vezes pra não entregar a merda do produto e vocês entregaram",0
 Muito bom e.rápido chegou antes.do prazo 👍👍👍👍,0
@@ -20370,7 +20370,7 @@ E recebo ele dia 11/01 . 20 dias antes",0
 "Peguei frete para minha residência, e tive um prejuízo pra retirar no correio!!!",0
 Os produtos chegaram conforme o prometido de qualidade e entrega rápida antes do prazo final.,0
 "vcs podiam abaixar o valor do frete e colocar de vez enquando frete gratis,seu frete e muito caro!!!!
-",0
+",2
 "comprei um abo dourado usb tipo-c + usb V8 + ightning 3x1.
 A nota fiscal e a caixa vieram do cabo dourado que comprei, mas o cabo veio prata.",0
 "O péssimo trabalho dos correios, nõ entregaram meu produto. Entrei em contato com eles e me disseram que o produto foi devolvido ao remetente, sendo que os mesmos nem chegaram fazer a entrega",0
@@ -20584,7 +20584,7 @@ Produto de qualidade ,0
 "Demorou muito pra ter uma resposta ou nota do produto, devido aos jogos da copa (segundo informações no pedido).
 Mesmo assim chegou antes do prazo....produto respondeu as expectativas !!!",0
 "Não recebi, passou do prazo, tentei localizar e disse que:o produto tinha saído dos correios de SP,encaminhado a outra agência,e,na outra agência,fui informando que o produto não tinha chagado lá.",0
-Comprei 2 colchas e só recebi 1. Recebi a primeira em 09.02.18 Entrei em contato no mesmo dia e a loja informou que a segunda já estaria a caminho também. Hoje é dia 15.02.18 e nada de colcha. ,0
+Comprei 2 colchas e só recebi 1. Recebi a primeira em 09.02.18 Entrei em contato no mesmo dia e a loja informou que a segunda já estaria a caminho também. Hoje é dia 15.02.18 e nada de colcha. ,-1
 Meus produtos estavam previstos para 8 de novembro e até agora NADA,0
 Recomendo para todos ,0
 Demorando demais para entregar....,0
@@ -20809,11 +20809,11 @@ Entrega dentro do prazo. ,0
 Ótimo produto de qualidade e u recomendo,0
 Atende minha necessidade ,0
 nota 10,0
-Recebi apenas 1 unidade e comprei 2. Tento ligar toda hora na lannister.com e não consigo. Já enviei reclamação e solicitação de resposta varias vezes sem retorno. ,0
+Recebi apenas 1 unidade e comprei 2. Tento ligar toda hora na lannister.com e não consigo. Já enviei reclamação e solicitação de resposta varias vezes sem retorno. ,-1
 "Ótimo produto, entregaram antes do prazo. Recomendo.",0
 produto de ótima qualidade superou minhas expectativas.,0
 produto bom,0
-"Após a compra no site, fiz a solicitacao do cancelamento da msm e nao fui atendido. Tentei várias vezes entrar em contato e nao consegui. Agora que o produto chegou quero devolve lo.",0
+"Após a compra no site, fiz a solicitacao do cancelamento da msm e nao fui atendido. Tentei várias vezes entrar em contato e nao consegui. Agora que o produto chegou quero devolve lo.",-1
 "Bom produto, só não coube o notebook de 15,6'. Vou ter que devolver.",0
 "Sempre gostei de comprar nas lannister, mas essa entrega deixou a desejar.",0
 "Produto em ótimo estado, funcionando e entregue antes do prazo. Ótima loja, obrigado.",0
@@ -20922,7 +20922,7 @@ Foi muito legal...não tive problemas...recomendo ,0
 comprei mesa pra notebook com ordinhas e veio mesa infantil totalmente diferente quero meu produto correto,0
 Recebi bem antes do prazo previsto.,0
 "Comprei o produto,paguei o frete e não foi entregue em casa. Tive que ir buscar.
-Péssimo.",0
+Péssimo.",1
 ótimo,0
 O produto veio com defeito! Espero que não demore muito a troca pois foi comprada para presentear!,0
 Excelente alívio imediato para minha coluna após dois dias de uso,0
@@ -21267,7 +21267,7 @@ muito bom..,0
 "Qualidade horrível, cor totalmente diferente da propaganda que mostra e fala. Fui obrigada a dar 1 estrela se nao, não enviaria a avaliação. Mais a nota de tudo é zero estrelas, zero em tudo",0
 "Lindo relógio, perfeito. Recomento!!!!! Chegou dentro do prazo informado. ",0
 entra super rápida e ótimo atendimento!!,0
-"lOJA PESSIMA, PAGUEI PELO FRETE E NÃO RECEBI A COMPRA, LIGUEI E NÃO OBTIVE NENHUMA EXPLICAÇÃO, TIVE QUE PAGAR UM NOVO FRETE PARTICULAR E AUTORIZAR UMA PESSOA IR ATE OS CORREIOS BUSCAR PRA MIM ABSURDO",0
+"lOJA PESSIMA, PAGUEI PELO FRETE E NÃO RECEBI A COMPRA, LIGUEI E NÃO OBTIVE NENHUMA EXPLICAÇÃO, TIVE QUE PAGAR UM NOVO FRETE PARTICULAR E AUTORIZAR UMA PESSOA IR ATE OS CORREIOS BUSCAR PRA MIM ABSURDO",-1
 Entregue no prazo e a embalagem estava um capricho. Obrigado ,0
 "O produto que comprei, modelo oval branco,recebi modelo redondo dourado. Pulseira correta.",0
 Pedi 4 controles e recebi apenas 3. Estou aguardando se entregarão o outro nesses dias.,0
@@ -22162,7 +22162,7 @@ foi prometido entrega até 02/08/2018 e até agora nada.,0
 Gostei da eficiência da entrega.,0
 Não abri o produto ainda...por que é um presente para o dia 23/07,0
 Muito bom mesmo eu recomendo ,0
-Se vocês não entregam onde eu morro porque cobram o frete sendo que tenho que ir buscar ,0
+Se vocês não entregam onde eu morro porque cobram o frete sendo que tenho que ir buscar ,1
 "Produto entregue antes do prazo. 
 ",0
 "produto bem inferior ao que parece no site baratheon , de baixa qualidade material e sem descrição satisfatória, não gostei e com certeza não vou voltar a comprar desta empresa targaryen. obrigado ",0
@@ -23235,7 +23235,7 @@ Produto horrível sem qualidade nenhuma cada hr da um valor na balança eu não 
 Chegou bem rápido ,0
 Ótima compra para quem tem pouco espaço pra secar roupas.,0
 "Estava ancioso para receber o carregador, porém apareceu que o fornecedor não possuía o produto, sendo que já havia pago por ele. Achei um desrespeito comigo como consumidor.",0
-Entra antes do prazo estabelecido.,0
+Entra antes do prazo estabelecido.,-1
 muito rápida a entrega antes do prazo,0
 "o vendedor foi pontual na entrega , feita dentro do prazo combinado,e confiavel.",0
 "Produto chegou rápido, sensacional.",0
@@ -23546,7 +23546,7 @@ Muito bom e no prazo,0
 Produto entregue antes do prazo. Excelente!,0
 COPRA VEIO ERRADA E NÃO CONSIGO RECLAMAR COM A baratheon PELO TELEFONE ESTA SEMPRE OCUPADO .,0
 "Produto bom, veio faltando uma peça, mas sei que a loja resolvera o problema, afinal compro aqui há anos e nunca tive problema. Recomendo!",0
-Não recebi o produto até hoje. A data de entrega estava prevista para do 23/02.,0
+Não recebi o produto até hoje. A data de entrega estava prevista para do 23/02.,-1
 Péssima estou aguardando a mercadoria até hoje já paga pelo cartão ,0
 quero saber o motivo de não ter sido entregue o produto - 2 pares de anjos de rede,0
 Gostei muito do produto e chegou antes do prazo.,0
@@ -23761,7 +23761,7 @@ Goso muito de comprar nas Américas nota dez.,0
 não fui avisado de nada !!,0
 "Entrega antes do prazo, produto de acordo com a imagem no site!",0
 recomendo a todos,0
-"Imediatamente após eu efetuar o pagamento, recebi um email avisando que o produto não estava disponivel. Entrei em contato com o baratheon 02 vezes, mas não querem devolver meu dinheiro. ",0
+"Imediatamente após eu efetuar o pagamento, recebi um email avisando que o produto não estava disponivel. Entrei em contato com o baratheon 02 vezes, mas não querem devolver meu dinheiro. ",-1
 Infelizmente nao foi entregue os pendulos..... ,0
 Ainda não recebi o produto...,0
 Bom,0
@@ -24022,7 +24022,7 @@ Recebi antes do prazo. Agradavelmente surpreso. Super-recomendo.,0
 Lindo produto! Recomendo. ,0
 "bom, estou usando e como o cesto ainda não se desmontou então está bom",0
 "Produto bom, entrega excelente, lojas lannister, sempre dando show, no quesito prazo de entrega...",0
-"comprei três jogos de cama, e só foram entregues dois, tentei entrar em contato porém o atendimento eletrônico não permite,pediu p aguardar uma resposta no e-mail e o mesmo nunca foi respondido",0
+"comprei três jogos de cama, e só foram entregues dois, tentei entrar em contato porém o atendimento eletrônico não permite,pediu p aguardar uma resposta no e-mail e o mesmo nunca foi respondido",-1
 "Comprei 2 produtos, só chegou 1. Eu acho que deveria dar como entregue quando chegar os dois. Certo. O suplemento Dhea 50ml chegou, mais a creatina Black skull 300g ainda não chegou.",0
 Excelente,0
 Adorei produtos entregue antes do praso muito bom,0
@@ -24188,7 +24188,7 @@ O produto não vale o preço cobrado. O material do fone é de baixa qualidade c
 Tudo ok ,0
 Entrego antes do prazo.Produto correto e recebido sem avarias.. Embalagem devidamente correta. Obrigado. ,0
 Porque o produto não chegou ainda.,0
-"Só descobri que o produto não chegaria em casa depois de pagar pelo frete, tive que ir buscar no correio.",0
+"Só descobri que o produto não chegaria em casa depois de pagar pelo frete, tive que ir buscar no correio.",1
 "A entrega foi antes do prazo e o produto veio corretamente, fiquei em duvida quando ao conector se encaixar no notebook, mas foi o correto mesmo. Recomendo",0
 otima,0
 "produto chegou antes do prazo previsto, era o que esperava",0
@@ -24455,7 +24455,7 @@ Chegou antes do prazo. O produto é excelente.,0
 "Estou insatisfeita, porque não venho recebendo informações sobre o produto comprado e até o momento o produto não chegou!!",0
 Gostei muito do produto ..de boa qualidade eu recomendo. .muito obrigada ao fornecedor e o aniversário shoptaime. .,0
 Excelente produto,0
-"Não é a colcha que comprei totalmente diferente.A cor não tem nada haver com a do site.liguei duas vezes pra resolve sobre a troca,falaram que vai entrar em contato até agora nada......",0
+"Não é a colcha que comprei totalmente diferente.A cor não tem nada haver com a do site.liguei duas vezes pra resolve sobre a troca,falaram que vai entrar em contato até agora nada......",-1
 "Comprei a cada de pneu. Chegou conforme combinado, no prazo. Tudo certo. Recomendo.",0
 "Os produtos são sempre de excelentes qualidades, estamos testando. Gratos",0
 "Comprei no dia 16/11 /1017 até a data de compra vc mudaram?
@@ -24526,7 +24526,7 @@ O produto e bom !
 ",0
 "embora tenha comprado o produto durante a Black Friday para presentear uma criança da família, o presente não chegou a tempo do Natal. Fui obrigada a comprar às pressas um presente substituto",0
 produto muito bom e chegou no prazo.,0
-"Foi encaminhado ontem um E-mail informando que a mercadoria veio faltando, ate o momento não recebi nenhuma ligação e nem um contato que posso entrar.",0
+"Foi encaminhado ontem um E-mail informando que a mercadoria veio faltando, ate o momento não recebi nenhuma ligação e nem um contato que posso entrar.",3
 Estou aguardando a entrega! Sempre compro nas lannister e nunca tive problemas! Espero não ter ahora!,0
 Até hoje não recebi meu produto e nem uma resposta sobre o ressarcimento.Aguardo uma solução para que eu continue a comprar com o stark.,0
 Rapidez e agilidade na entrega produto de qualidade. ,0
@@ -24671,7 +24671,7 @@ Muito bom,0
 Na realidade comprei dois produtos nesta loja e foi entregue só 1 por enquanto e sem nota fiscal.,0
 "Mal colocada, ficou com uma bolha grande no centro da tela do celular
 Tive que retirar para usar sem película...
-Funções em observação...",0
+Funções em observação...",-1
 "Ótimo produto, entrega antes do prazo",0
 muito bom parabem ,0
 As anilhas de 25 kg ainda não chegaram,0
@@ -24772,7 +24772,7 @@ Do jeito que eu imaginava.... lindas toalhas,0
 "Produto entregue com atraso. Correios, que já foi referência, agora está muito ruim.",0
 Os pincéis são lindos!!!!!!,0
 "Produto chegou bem antes do prazo. Não tive problemas. Estava em dúvida com relação a qualidade do móvel, mas não tenho o que reclamar. Recomendo.",0
-"Enviaram o produto errado já fiz reclamação no site pois ate agora não consegui um telefone para fazer contato, um absurdo falta de respeito, vou entrar na justiça",0
+"Enviaram o produto errado já fiz reclamação no site pois ate agora não consegui um telefone para fazer contato, um absurdo falta de respeito, vou entrar na justiça",4
 Além de muito bem feita a manta me surpreendeu pelo acabamento e material gostei bastante produto de qualidade muito bonita.,0
 Entrega antes do prazo. Excelente.,0
 "Produto de qualidade que esperava, bom. ",0
@@ -25000,7 +25000,7 @@ O produto não foi entregue na data previsto e quando vc liga pra mais informaç
 "No anuncio falava que era de couro, porem não era de couro",0
 Chegou antes do prazo,0
 Veio procuro diferente por isso estou cancelando e pedindo devolução do dinheiro ,0
-Foi solucionado o cancelamento do produto e o mesmo me foi entregue. Já tentei entrar em contato para recebimento do código de envio. Mais não obtive resposta.,0
+Foi solucionado o cancelamento do produto e o mesmo me foi entregue. Já tentei entrar em contato para recebimento do código de envio. Mais não obtive resposta.,-1
 tudo joia,0
 Produto de qualidade!,0
 bom,0
@@ -25023,7 +25023,7 @@ Melhor do que o esperado,0
 Comprarei mais vezes.",0
 "Acabamento bom, desenho bonito, material de qualidade ",0
 Gostei dos produtos e do prazo de entrega,0
-"Percebi q havia pedido a voltagem equivocada assim q enviei o pedido. Tentei ligar, fazer contato pelo site, enfim todas as possibilidades! E não consegui fazer contato. Estou pedindo a devolução ",0
+"Percebi q havia pedido a voltagem equivocada assim q enviei o pedido. Tentei ligar, fazer contato pelo site, enfim todas as possibilidades! E não consegui fazer contato. Estou pedindo a devolução ",-1
 "Ainda estou avaliando a qualidade do produto 
 pois nao conhecia o mesmo.",0
 "avaliei como recebido a mercadoria, porém, não abri ainda para ver se está correta e sem defeitos, pois, estou em viagem e foi entregue na empresa. Creio que deve estar tudo certo conforme o pedido. ",0
@@ -25569,7 +25569,7 @@ Recomendo,0
 Meu produto q comprei junto com este ñ chegou ,0
 Estou esperando e nada de chegar a minha cortina. Já mandei uma mensagem para o targaryen e não tive resposta.,0
 Ok conforme anunciado,0
-"O relógio é muito bonito. Porém, achei o frete caro.",0
+"O relógio é muito bonito. Porém, achei o frete caro.",-1
 Adorei o sling. Produto ótimo.,0
 Rapidez e bom preço,0
 "recebi a cadeira faltando dois parafusos, fui no comprei e montei a cadeira",0
@@ -25667,7 +25667,7 @@ Paguei o frete ate meu endereco
 E nao recebo o produto
 Sempre tenho q ir ate o correio retirar
 Dessa vez nao cosegui ir no prazo e o produto voi devolvido 
-Qual precedimento agora",0
+Qual precedimento agora",-1
 produto de excelente qualidade,0
 entrega no prazo e produto ok,0
 muito bom o atendimento. produto chegou rápido,0
@@ -25706,7 +25706,7 @@ produto bom recomendo ,0
 O produto não veio funcionando,0
 "Comprei 2 unidades,porém, só recebi 1 unidade do produto. ",0
 Produto com uma qualidade boa em relação ao preço!,0
-"Entrega bem rápida antes do prazo, mochila igual da foto , bem bonita venho tudo certinho",0
+"Entrega bem rápida antes do prazo, mochila igual da foto , bem bonita venho tudo certinho",-1
 Parabéns gostei de ter comprado na lojas lannister virei cliente,0
 "Recebi antes do prazo e em ótimas condições. O produto igual a descrição
 Amei, facilita a vida ",0
@@ -26050,7 +26050,7 @@ Parabéns chegou bem antes do prazo eu recomendo nota 10,0
 Estou muito satisfeita.,0
 Bom,0
 "Paguei frete e tive que buscar o produto. Sem falar q o frete foi caro. Demorou para chegar.
-Só acho que o frete tinha que ser mas barato. O frete acaba saindo no valor do produto ou mas caro. ",0
+Só acho que o frete tinha que ser mas barato. O frete acaba saindo no valor do produto ou mas caro. ",-1
 "O produto apresenta claros sinais de uso, com algumas partes desgastadas. Definitivamente não é novo.",0
 Sempre como aqui na loja ! Ótimo atendimento ! Loja de confiança ,0
 "O travesseiro vem com uma telinha costurada e não consigo vê-lo direito, contudo percebe-se que se trata realmente do produto ofertado! O gel só da um alívio no calor se você não colocar a fronha :(",0
@@ -26684,7 +26684,7 @@ recomendo pra todos,0
 Achei o produto com acabamento ruim,0
 Produto entregue no prazo,0
 Muito bom gostei muito chegou até antes do prazo,0
-Tive que ir buscar,0
+Tive que ir buscar,-1
 Como sempre tudo perfeito. ,0
 "Vendedor entregou conforme prometeu.
 Único problema é que envia através do Correios. E estou preferindo via transportadora ultimamente. ",0
@@ -26803,12 +26803,12 @@ Aguardo. ",0
 Adorei o comedouro,0
 "Gostei sim do produto, fico agradecida pela entrega rápida, continuo aguardando outros pedidos ",0
 muito boa e correta no prazo,0
-"Comprei um kit de carrinho e bebê conforto, so foi entregue o carrinho, estou ha 3 dias entrando em contato por e-mail com a lojas lannister e a targaryen, até agora nem um email sequer de retorno.",0
+"Comprei um kit de carrinho e bebê conforto, so foi entregue o carrinho, estou ha 3 dias entrando em contato por e-mail com a lojas lannister e a targaryen, até agora nem um email sequer de retorno.",3
 "O produto atende as especificações. É bem simples, mas condiz com o valor. Ficou bonito na cama.",0
 "Gostei muito do produto, recomendo!",0
 Infelizmente já se passou o prazo de entrega da compra e nada .. espero receber meu produto em breve para evitar mais problemas,0
 Não foi entregue o produto. Estava previsto para 27/08 ,0
-"Achava se tratar de produto original Samsung, alem de pagar frete e ter que buscar nos correios",0
+"Achava se tratar de produto original Samsung, alem de pagar frete e ter que buscar nos correios",-1
 Chegou conforme eu solicitei e o produto alem de barato é muito bom!,0
 "O prazo de entrega é muito longo, demora demais.",0
 SÓ A NOTA FISCAL DO APARELHO CELULAR QUE NAO VEIO,0
@@ -26836,7 +26836,7 @@ DESTA VEZ NAO RECEBI O PRODUTO COMPRADO,0
 "Admirável o atendimento e a rapidez na entrega. Agora vamos utilizar o produto. Já iniciei o tratamento.
 Obrigado.",0
 Recebi o produto correto dentro do tempo. Fique muito satisfeita.,0
-"Comprei o produto, com data prevista de entrega para dia 21/12, porém não recebi até a data de hoje, entrei no status de rastreamento e diz que o produto foi roubado. Entrei em contato e até agora nad",0
+"Comprei o produto, com data prevista de entrega para dia 21/12, porém não recebi até a data de hoje, entrei no status de rastreamento e diz que o produto foi roubado. Entrei em contato e até agora nad",-1
 Parabéns a loja online. Comprei o que estava procurando. Recebi o produto antes da data. Com produto de qualidade. Recomendo.,0
 Gostaria de saber o que está acontecendo porque ainda não chegou?,0
 "Produto chegou antes do prazo estipulado, tudo certo.",0
@@ -27511,7 +27511,7 @@ Gostei do produto é do valor em comparação as outras lojas ,0
 Tudo perfeito.,0
 Muito satisfeita,0
 "O produto não é original, não consigo usar, ele carrega e quando vou usá-lo está descarregado, Horrível o produto, ",0
-"Paguei a taxa de entrega, mas tive que ir retirar o produto no correio, mesmo tendo enviado um e-mail, recebi uma resposta eletrônica genérica que não me ajudou em nada",0
+"Paguei a taxa de entrega, mas tive que ir retirar o produto no correio, mesmo tendo enviado um e-mail, recebi uma resposta eletrônica genérica que não me ajudou em nada",-1
 Atendimento rápido entrega mais rápida ainda entregou antes do prazo,0
 Gostei muito do atendimento nessa minha primeira compra voltarei a comprar mais vezes,0
 "Muito bom, chegou antes do prazo. Recomendo! ",0
@@ -27815,7 +27815,7 @@ O produto que comprei é de complexa instalação e só é possível ser feita p
 tá mais fácil a criança nascer antes do que a mamadeira chegar,0
 "O produto ainda não foi entregue conforme prazo previsto!!! OBS: Não estou cancelando entrega, mas peço agilidade na entrega do produto!!! Preciso com urgência!!!!!!",0
 Dentro do prazo previsto.,0
-realizei a compra no dia 22/02/2017 com previsão de entrega até o dia 23/03/2017 e até agora não recebi o produto.Se eu ainda receber volto e falo algo mais,0
+realizei a compra no dia 22/02/2017 com previsão de entrega até o dia 23/03/2017 e até agora não recebi o produto.Se eu ainda receber volto e falo algo mais,-1
 "gostei muito , a entrega foi feita antes do prazo muito bom.",0
 Avaliação positiva,0
 O produto não foi recebido além de não ter recebido nenhuma notificação do vendedor sobre a não entrega.,0
@@ -27947,7 +27947,7 @@ Nunca mais vou comprar pelas lojas lannister ,0
 "RECOMENDO ÓTIMO PRODUTO, VENDEDORES COM MUITA RESPONSABILIDADE, PARABÉNS , A TODOS ",0
 "Prezados, basta rastrear nos correios, onde consta, OBJETO AINDA NÃO CHEGOU À UNIDADE.
 Solicito providencias, pois, a previsão dada pela Loja era de até 27/12/2017.",0
-"Estou decepcionada com o correio, até agora nada do meu produto.E carteiro nao espero eu desce e vez segunda ainda mentiu que veio trazer.Quero saber aonde está pra mim ir buscar qual agência",0
+"Estou decepcionada com o correio, até agora nada do meu produto.E carteiro nao espero eu desce e vez segunda ainda mentiu que veio trazer.Quero saber aonde está pra mim ir buscar qual agência",-1
 "Produto de boa qualidade, gostei bastante, tanto do tamanho, e tbm do material.
 Entrega antes do prazo",0
 RECOMENDO,0
@@ -28306,7 +28306,7 @@ PRODUTO DE ÓTIMA QUALIDADE.,0
 sem opinião produto não entregue,0
 "Comprei 3 produtos e só recebi um.
 Não recebi nenhum contato da empresa para falar sobre a falta dos outros 2 produtos; se vou receber, ou não.",0
-"Meu produto não chegou, já fiz 2 solicitações e o prazo de resposta venceu a 4 dias e ninguém entra em contato",0
+"Meu produto não chegou, já fiz 2 solicitações e o prazo de resposta venceu a 4 dias e ninguém entra em contato",-1
 "Recomendo,produto de boa qualidade.",0
 "Preciso receber meu produto.
 O que esta acontecendo?
@@ -29173,7 +29173,7 @@ muito rápido,0
 cumpre o prazo e o produto chegou corretamente.,0
 "Bom, o site não cumpriu o produto do anúncio comprei uma tesoura de 6 "" polegadas e venho de 5"" polegadas não gostei e é para meu trabalho e me Decepcionou a loja....",0
 "Entrega rápida, segura, bem embalado. O produto é bem bonito e de boa qualidade.",0
-"Estão dizendo que já foi entregue, mais até o momento não recebi nada, se não resolver ou devolver o dinheiro. Vou ter que ir no PROCON e na polícia.veja com sua transportadora",0
+"Estão dizendo que já foi entregue, mais até o momento não recebi nada, se não resolver ou devolver o dinheiro. Vou ter que ir no PROCON e na polícia.veja com sua transportadora",-1
 "Produto bom, e de boa qualidade",0
 Recomendo,0
 Recebi a mercadoria dentro do prazo estipulado e em perfeitas condições. Feita a troca com sucesso.,0
@@ -29505,7 +29505,7 @@ Devido outros quadros serem grandes preciso devolver ,0
 "Fiz a compra dessa bomba em uma promoção, porém depois de efetuado o pagamento esperei durante 1 semana até ser notificado o produto não estava mas disponível em estoque. ",0
 Serviço e produto ótimos,0
 "Chegou bem antes, ainda não testei",0
-não recebi...paguei o frete p chegar em casa e nao pra eu ir no correio retirar ...,0
+não recebi...paguei o frete p chegar em casa e nao pra eu ir no correio retirar ...,-1
 ótimo,0
 "O Aparelho é bom, só faltou o fio que liga na eletricidade, vc tem que comprar.
 Paguei caro e tenho ainda que comprar fio.",0
@@ -29710,7 +29710,7 @@ Produto entregue antes do prazo.,0
 "Maior que eu imaginava, uma arte muito bem feita. Super recomendo!",0
 Sem comentários. ,0
 A entrega é muito demorada. ,0
-"me encaminharam um email informando que houve 'problema' com a entrega, já entrei em contato para saber o que houve, se iam devolver o dinheiro ou prorrogar o prazo da entrega e não me deram resposta",0
+"me encaminharam um email informando que houve 'problema' com a entrega, já entrei em contato para saber o que houve, se iam devolver o dinheiro ou prorrogar o prazo da entrega e não me deram resposta",3
 Produto não foi entregue e já entrei em contato com a lannister que ainda neo deu retorno ,0
 "excelente produto, meus parabéns, entrega dentro do prazo, obrigado.",0
 "Só não gostei, pois recebi um email dizendo que a compra tinha tido um problema, tem tentei solucionar por email e ninguém respondeu.
@@ -29758,7 +29758,7 @@ Comprei 3 objetos só chegou um o certa era vir tds juntos ou estou errado..,0
 "O produto é muito bom e a entrega foi rápida,eu recomendo.",0
 Recebi o produto em perfeitas condições e dentro do prazo.,0
 Produto muito bom e de ótimo material.,0
-"Ainda não posso avaliar a loja, pois recebi meu produto com defeito e estou desde sábado tentando entrar em contato e ainda não obtive nenhuma resposta.",0
+"Ainda não posso avaliar a loja, pois recebi meu produto com defeito e estou desde sábado tentando entrar em contato e ainda não obtive nenhuma resposta.",3
 O produto chegou a tempo e é muito bom.,0
 "Lamento informar que ainda não recebi o produto adquirido.
 Estou desapontado com as Lojas lannister. Sou cliente antigo e isto nunca aconteceu antes.
@@ -29818,7 +29818,7 @@ A ESTAMPA DO SITE ERA OUTRA. TECIDO MUITO FINO NOS DEMAIS TUDO BEM.,0
 "Pedido realizado dia 04/01, e até hoje dia 31/01, o pedidk está ""aguardando nota fiscal"" e não foi entregue.",0
 bom produto,0
 CONSTA QUE FOI ENTREGUE MAS NÃO CHEGOU NADA,0
-.Hoje dia 19/07/2017 até o momento não recebi meus produtos que estava previsto entregar até 14/07,0
+.Hoje dia 19/07/2017 até o momento não recebi meus produtos que estava previsto entregar até 14/07,-1
 Recebi somente uma parte dos produtos.,0
 "Nossa, excelente!!! Superaram minhas expectativas, vou fazer novas compras fim do mes!!!
 Nota 10",0
@@ -29874,7 +29874,7 @@ Não recebi minha mercadoria e estou muito insatisfeita pois já é a segunda ve
 É mt chato ter que ir nos correios para buscar . Nem em área de risco eu moro . 
 
 
-",0
+",-1
 "Exatamente o que esperava... Prazo e qualidade. Recomendo.
 
 ",0
@@ -30108,7 +30108,7 @@ Parabéns ...,0
 "Recebi produtos diferentes do anunciado e pior de 02 und compradas recebi somente 01 und. Não gostei, pedi a devolução do dinheiro.",0
 Comprei 3 toners mas só recebi 2.,0
 "Produto bacana, meu filho gostou. Entrega muito rápida. Gostei bastante.",0
-"Há tempo estou entrando em contato com a lannister para informas que o status do produto é o mesmo desde do dia 02/12, eles pediram para aguardar a previsão , que seria 27/12. Continuo sem o produto",0
+"Há tempo estou entrando em contato com a lannister para informas que o status do produto é o mesmo desde do dia 02/12, eles pediram para aguardar a previsão , que seria 27/12. Continuo sem o produto",-1
 Chegou antes do esperado !!,0
 não chegou ainda minha mecadoria,0
 Adquiri duas unidades do produto e apenas uma chegou. E nao tenho noticia da outra. ,0
@@ -30462,7 +30462,7 @@ Muita demora. Isto é desanimador. ,0
 Entrega super rápido e estou bem satisfeito com o produto. ..,0
 "O PRODUTO ATENDEU MINHAS EXPECTATIVAS, SOMENTE QUESTIONO A DEMORA DA ENTREGA, MAS VALEU A PENA. ",0
 Produto de qualidade e bom preço.,0
-"O produto foi entregue dentro do prazo, Porém veio faltando um ítem. Imediatamente entrei em contato com a lannister que me disseram entrar em.contato com vcs e me retornar. Mas até agora nada!",0
+"O produto foi entregue dentro do prazo, Porém veio faltando um ítem. Imediatamente entrei em contato com a lannister que me disseram entrar em.contato com vcs e me retornar. Mas até agora nada!",-1
 otimo,0
 "Produto com defeito, após contato com targaryen, aguardando envio de mensagem para troca do mesmo.
 ",0
@@ -30652,7 +30652,7 @@ perfeito!,0
 eu pedi a maquina de estampa 8x1 e veio só a prensa de camisas falto os restantes dos itens por favor quero trocar ou devolver o produto ,0
 Produto conforme esperado.,0
 Produto muito bom e de acordo com as especificações. Chegou dentro do prazo.,0
-"Ate hoje o pedido não chegou entramos em contato com vocês e não tem nenhuma posição, para passar.",0
+"Ate hoje o pedido não chegou entramos em contato com vocês e não tem nenhuma posição, para passar.",-1
 Produto devolvido ao vendedor,0
 Estou muito satisfeita e recomendo.,0
 okok,0
@@ -30947,7 +30947,7 @@ Super recomendo loja e produto",0
 "Comprei 2 itens do mesmo produto e tive que pagar 2 fretes... Acho uma sacanagem isso, e também chegou 1 produto e o outro ainda não",0
 Muito útil e necessário para quem necessita ficar muito tempo sentado,0
 .,0
-"Infelizmente estou tentando, entrar em contato com a central de atendimento e não consigo. Não recebi o meu produto e também não tive nenhum retorno do status.",0
+"Infelizmente estou tentando, entrar em contato com a central de atendimento e não consigo. Não recebi o meu produto e também não tive nenhum retorno do status.",3
 Além da qualidade do produto e eficiência na logistica da entrega,0
 "Comprei 2 travesseiros e recebi apenas 1.
 Estou aguardando receber o outro.
@@ -31144,7 +31144,7 @@ Chegou bem rápido antes do prazo de entrega,0
 Foto não corresponde ao produto. Apesar de conter medidas que não dão a noção do tamanho do produto.,0
 "O jogo de cama faz juz à imagem apresentada no produto, é bonito, no entanto deixa a desejar em acabamento, muita linha solta e a costura foi refeita deixando falha no tecido.",0
 "Eu havia pedido o cancelamento,no entanto o pedido foi entregue assim mesmo!",0
-"a peça veio com defeito, o frete custou mais caro do que o produto e minha maior chateação é que para trocar vou ter um trabalho absurdo",0
+"a peça veio com defeito, o frete custou mais caro do que o produto e minha maior chateação é que para trocar vou ter um trabalho absurdo",2
 "só levei um susto com o prazo inicial de mais de 15 dias, mas chegou em bem menos tempo!",0
 "Muito satisfeito!!!
 Entrega super rápido, excelente atendimento.
@@ -31263,7 +31263,7 @@ sempre o melhor atendimento e prazo de entrega,0
 O produto chegou antes do prazo.,0
 "Fiquei contente pois gostei do produto , chegou antes do previsto,mas vieram 2 eu comprei e paguei 4 esta faltando os outros 2 por favor gostaria de saber quando vão me enviar?( São lindos)grata por e",0
 "Produto como na foto, mas veio com a bateria esgotada, logo tive que levar para trocar, e quando levei na joalheria, o Joalheiro me informou que o produto era falso. Então, não sei...",0
-"O que achei péssimo foi cobrar dois frete para duas unidades do mesmo produto, vierem em caixas separadas, o valor do frete foi um pouco a menos que o valor de uma unidade do produto. Absurdo ",0
+"O que achei péssimo foi cobrar dois frete para duas unidades do mesmo produto, vierem em caixas separadas, o valor do frete foi um pouco a menos que o valor de uma unidade do produto. Absurdo ",-1
 "Realizei a compra e antes de receber me informaram que o produto não seria entregue, acho que por ser uma loja virtual não poderiam fazer isso, agora não consigo resgatar o valor pago.
 ",0
 "Não recebi, então não posso opinar ",0
@@ -31351,7 +31351,7 @@ Produto chegou perfeito.Entregue muito antes do prazo.,0
 "Gostei do produto, o prazo foi exato e o preço ,muito bom.
 Comparei sempre",0
 Os produtos vendidos através do stark são muito bons e sempre de qualidade.,0
-Não entregou nem entra contato,0
+Não entregou nem entra contato,-1
 não recebi o produto,0
 "comprei 5 kg de bicarbonato, mas foram entregues somente 3 pacotes de 1kg.",0
 "Foi bom, obrigado.",0
@@ -31428,7 +31428,7 @@ Entrga depois do prazo ,0
 "Produto veio sem cabo USB e fonte,a caixa de dentro veio danificada e principalmente parece não ser original. Aguardando por uma solução.",0
 otimo ,0
 obrigada,0
-"Comprei um coisa e recebi outra, já enviei e-mail e até agora ninguém entrou em contato comigo.",0
+"Comprei um coisa e recebi outra, já enviei e-mail e até agora ninguém entrou em contato comigo.",-1
 Nunca tive problemas em receber encomendas. A primeira vez que acontece de não receber a encomenda.,0
 "Eu gostei de comprar na loja, o produto não demorou foi entregue no prazo e consegui acompanhar todo o processo depois da compra como emissão da nota e podia até rastrear onde o produto estava.",0
 Ótima compra. Torneira dentro das expectativas. ,0
@@ -32227,11 +32227,11 @@ tudo ok,0
 "empresa responsável, estão de parabéns ",0
 Produto recebido conforme contratado.,0
 faltou cupom fiscal,0
-Eu pedi 110 e veio 220 e não consigo fazer a troca ja liguei mil vezes ninguém me atende o site é uma merda não tem opção de troca... E eu fiz uma compra de uns bancos carros de boi foi um golpe q cai,0
+Eu pedi 110 e veio 220 e não consigo fazer a troca ja liguei mil vezes ninguém me atende o site é uma merda não tem opção de troca... E eu fiz uma compra de uns bancos carros de boi foi um golpe q cai,-1
 "produto chegou antes do prazo, comprei de ultima hora para presente e chegou 4 dias antes do aniversário. ótimo!!! estava preparara para atrasar o presente. presenteado adorou o produto e esta amando",0
 Produto de ótima qualidade,0
 Satisfeito com o produto é com a loja,0
-Não entregaram na data prevista,0
+Não entregaram na data prevista,-1
 "Produto de qualidade, entregue antes do prazo, bem embalado, vendedor sociável.
 Super indico !!!",0
 Esse produto veio com defeito,0
@@ -32746,7 +32746,7 @@ Chegou bem antes do prazo e chegou sem nenhum problema. Recomendo a loja.,0
 "SÓ RECEBI UM ITEM, POIS ENCOMENDEI DOIS, ESPERO RETORNO PARA SER RESOLVIDO A QUESTÃO, TENTEI LIGAR PARA O ATENDIMENTO AOS CLIENTES E NÃO CONSEGUI. FOI DESPACHADO EM 07/12/2017, PESO 1.152KG VOL,01JOSI",0
 "Ate agora nao recebi o produto, não entendo o por que disso, ja que moro em avenida principal, em casa de facil acesso e recebo sempre todas as correspondencias. Até agora não recebi o produto.",0
 Ótima compra!,0
-Produto como o da foto e descrição. Gostei! Deveria ter foto na mão de uma modelo para ter noção do tamanho... achei menor do que achava ser,0
+Produto como o da foto e descrição. Gostei! Deveria ter foto na mão de uma modelo para ter noção do tamanho... achei menor do que achava ser,-1
 "Eu comprei umas cestas de vime, comprei 6, só que veio faltando uma tampa. Então não fiquei totalmente satisfeita! Mas o produto é muito bom!",0
 "A entrega está atrasada, uma outra compra que eu fiz já chegou e essa até agora nada e olha que a outra eu fiz bem depois !",0
 "Inicialmente, pedi o cancelamento do pedido devido a falta de atualização com o produto, hoje sei que é erro do APLICATIVO e não do vendedor.",0
@@ -32855,7 +32855,7 @@ Muito bom! Veio muito bem embalado e chegou antes do prazo!,0
 E bom custo/benefício !,0
 "Comprei 2 transformadores iguais, porém na entrega veio apenas um. Como proceder agora? ",0
 "Eu solicitei uma extensão elétrica com 3 entradas, ou seja deveria ser igual o da foto. 
-Porém não vou realizar a troca, pois não tenho tempo de ir ao correio fazer a devolução.",0
+Porém não vou realizar a troca, pois não tenho tempo de ir ao correio fazer a devolução.",-1
 Recebi porém o correio disse ter tentado a entrega no horário 14:30 e não ter quem recebesse. O que não ocorreu já que meu endereço consta como área de risco de assalto e no horário estava em casa. ,0
 Recomendo,0
 PRODUTO ENTREGUE ANTES DO PRAZO. SUPER RECOMENDO. ,0
@@ -32894,7 +32894,7 @@ Produto chegou no prazo certo.,0
 "Entrega super rápida, chegou bem antes do prazo, o produto veio certinho. Recomendo. Muito satisfeita.",0
 "Chegou antes do prazo, produto muito bom!",0
 Gostei ,0
- A única coisa que desagradou foi que as os parafusos vieram soltos e caixa estava amassada e rasgada. Não colocaram em um saco plástico simples. ,0
+ A única coisa que desagradou foi que as os parafusos vieram soltos e caixa estava amassada e rasgada. Não colocaram em um saco plástico simples. ,-1
 Após a compra a loja informa que por um erro de comunicação interna o produto não está em estoque mais e o pedido será cancelado e o valor estornado. ,0
 Ótimo produto,0
 "Olá Boa tarde eu comprei foi pratos de louça nãfo de plástico. ...
@@ -32998,7 +32998,7 @@ Parabéns pelo serviço prestado ,0
 produto recebido dentro do prazo e de qualidade.,0
 acabei de usar uma bateria está tudo perfeito obrigada,0
 Estou esperando o pedido sei que o correio sempre atrasa,0
-Entrega em atraso já entrei em contato e não tenho resposta.,0
+Entrega em atraso já entrei em contato e não tenho resposta.,-1
 "O produto era pra ser entregue no dia 27/11/2017 e não chegou, status produto i disponível, mandei um formulário pra eles e ainda não me responderam, quero saber do meu reembolso, qdo e como sera? ",0
 "A entrega ainda não foi realizada,estava previsto para 02/01/2018,nem status de onde anda o produto eu tenho para acompanhar.",0
 Produto de péssima qualidade ,0
@@ -33235,7 +33235,7 @@ Chegou bem rápido!,0
 "Produtos confiáveis e entrega eficiente, sempre!",0
 "AINDA NÃO RECEBI MEU PRODUTO, O PRAZO DE ENTREGA JÁ PASSOU DESDO DIA 20/02/2018",0
 "apenas um dos fones chegou com a parte de cima um pouco folgada, mais acredito que não vai influência no produto.",0
-"Nao recomendo pessima qualidade,ja veio com o assento rasgado a parte branca encardida de tao empuerada que veio paguei o frete caro e nao recebi em casa tive que ir busca.",0
+"Nao recomendo pessima qualidade,ja veio com o assento rasgado a parte branca encardida de tao empuerada que veio paguei o frete caro e nao recebi em casa tive que ir busca.",-1
 Comprei 2 pneus mas chegou somente 1 até agora o prazo era até dia 20 de fevereiro,0
 "Na descrição do produto diz que vem 3 peças, só que recebi 2, a colcha e o porta travesseiro a almofada não veio em nenhuma das colchas que pedi.",0
 "O produto é bom! Tem uma qualidade media, mais pra alta, recomendo pra iniciar e também pra decorativo e perfeito, vem com o suporte pra colocar na parede. ",0
@@ -33668,7 +33668,7 @@ Recomendo está loja.
 Nota 10",0
 Produto entregue corretamente.,0
 "muita dificuldade e demora para a entrega. e ainda não entregaram por completo o kit de 4 pneus comprados, sendo que já foi feito o primeiro pagamento",0
-"Não recebi o produto nem contato do fornecedor. Já mandei email via site das lannister e nada aconteceu! Aguardo retorno pois não quero desistir da compra, quero o produto ",0
+"Não recebi o produto nem contato do fornecedor. Já mandei email via site das lannister e nada aconteceu! Aguardo retorno pois não quero desistir da compra, quero o produto ",-1
 "estou feliz em comprar nas lojas lannister, sinto segurança.",0
 NAO ENTREGOU O PRODUTO. EXIJO RESSARCIMENTO.,0
 estou a espera mas ainda nao recebia ,0
@@ -33778,7 +33778,7 @@ Ainda não recebi o produto.,0
 recomendo ,0
 Veio faltando item e estou aguardando uma posição ,0
 Entrega super rápida muito fácil de aplicar ,0
-"Recebi o produto errado, há três dias tento resolver e não consigo. Quero devolver o que recebi e não sei como fazer. Quero receber o valor de volta, pois tive que comprar meu produto em outra loja.",0
+"Recebi o produto errado, há três dias tento resolver e não consigo. Quero devolver o que recebi e não sei como fazer. Quero receber o valor de volta, pois tive que comprar meu produto em outra loja.",-1
 Etenciosamente rápida e eficiente. ,0
 "Material muito Bom, chegou antes do prazo ",0
 excelente compra,0
@@ -33850,7 +33850,7 @@ Muito bom. Recomendo ,0
 Muito bom,0
 Não recebi.,0
 recomendo,0
-"eu paguei o frete para me entregarem em casa mas infelismente eu tive que ir retirar no correio , me senti lesado para que cobram o frete se naõ entregam .",0
+"eu paguei o frete para me entregarem em casa mas infelismente eu tive que ir retirar no correio , me senti lesado para que cobram o frete se naõ entregam .",-1
 Amei os produtos ,0
 Linda e delicada!! Amei,0
 "01-65096389 pedido referente a três cortinas PVC corta luz, duas foram entregues ,uma não , e aparece no status do pedido como todos os produto entregue .",0
@@ -34102,7 +34102,7 @@ otimo site,0
 "O anuncio não foi claro , a imagem não condiz ... muito pequeno o pendente achei que era bem maior , não temproteção para a lampada ela fica exposta ... enfim tem que melhorar o anunciado",0
 perfume falcificado,0
 Ate momento produto funcionando,0
-"Paguei o frete mais o produto não chegou em minha casa, tive q ir buscar nos correios.",0
+"Paguei o frete mais o produto não chegou em minha casa, tive q ir buscar nos correios.",1
 "Adorei o produto, chegou antes do tempo estimado. Super recomendo.",0
 "O atraso e não envio das mercadorias a residência destinatário é culpa da Loja ou das lannister, que cobra por um serviço que não ocorre? Este só ocorreu pq houve reclamação, o outro foi pego EBCT.",0
 Entrega no prazo e ótimo produto.,0
@@ -34381,7 +34381,7 @@ Poderiam disponibilizar o tamanho das pulseiras para que pudéssemos fazer a esc
 creio que o atraso e dos correios,0
 "Tudo certo com o produto, fiquei muito satisfeita. ",0
 site ótimo adorei a praticidade do site na hora de comprar!,0
-Os correios fez uma tentativa pois eu não estava em casa era o dia do feriado do dia 12/10 voltou para agência tive que ir buscar na agencia.,0
+Os correios fez uma tentativa pois eu não estava em casa era o dia do feriado do dia 12/10 voltou para agência tive que ir buscar na agencia.,-1
 Otima compra! Obrigada!,0
 "Muito Bom , entregou bem antes do combinado nota 10 Sensacional ",0
 "Preciso saber quando será entregue minha encomenda,está me atrapalhando essa demora",0
@@ -34435,7 +34435,7 @@ produto otimo,0
 Muito bom,0
 Parabéns a lannister pelo excelente trabalho chegou td direitinho no prazo!!!,0
 5,0
-Gentileza entrar em contato URGENTE (71) 98500-7952,0
+Gentileza entrar em contato URGENTE (71) 98500-7952,-1
 Muito bonito o relógio.,0
 "Entrega super rápida e produto de ótima qualidade.
 ",0
@@ -34809,7 +34809,7 @@ Produto entregue antes do prazo.,0
 preciso devolver um lustre e pagar os outros dois,eu cancelei pensando que não ia chegar e acabei pedindo outro e chegou os 3.",0
 o produto chegou com quase 15 dias de antecedência.,0
 "Não tenho como avaliar, não recebi nada ainda",0
-Data prevista de entrega era dia 10/08 é ainda não recebi.,0
+Data prevista de entrega era dia 10/08 é ainda não recebi.,-1
 "ainda não foi usado o produto, mas acredito que seja ótimo.",0
 produto bom... mas o vendedor demorou a responder e avançar nos passos da compra atrasando a entrega da mesma.,0
 "Entregue corretamente, amei a encomenda.",0
@@ -35092,14 +35092,14 @@ O produto só é memor do que eu imaginava.,0
 o produto não veio c a quantidade certa de 3 produtos so veio um. não recomendo.,0
 "entregaram antes da data, o produto é bom. 
 obrigada ",0
-Comprei dois produtos e recebi apenas 1 deles. Tentei entrar em contato com a loja e não obtive sucesso. Tentei entrar em contato com a lannister por telefone e email e também não consegui.,0
+Comprei dois produtos e recebi apenas 1 deles. Tentei entrar em contato com a loja e não obtive sucesso. Tentei entrar em contato com a lannister por telefone e email e também não consegui.,-1
 "Tive a impressão de que o produto era maiorla quando estava com ele em mãos pois no site era diferente mas gostei do produto. ..super recomendo essa loja muitos precisos na data da entrega 
 ",0
 Compensa,0
 "PRIMEIRAMENTE O lannister.COM É EXCELENTE PARA SE COMPRAR, POIS NÃO HÁ BUROCRACIA PARA RESOLVER QUALQUER PENDÊNCIA. A LOJA PARCEIRO TAMBÉM CORRESPONDE COM O CONTRATADO, E O PRODUTO CHEGOU NO PRAZO.",0
 Tudo ok e dentro do prazo,0
 "o produto é horrível, vou usar como-pano de chão . Porque o que mandaram não dá pra dizer que é toalha de banho.",0
-O prazo de entrega do produto era dia 08/03. Ainda não recebi o produto e ninguém entrou em contato comigo para dar alguma explicação.,0
+O prazo de entrega do produto era dia 08/03. Ainda não recebi o produto e ninguém entrou em contato comigo para dar alguma explicação.,-1
 Esse pedido recebi no prazo. O da Sereia era pra ter chego até dia 07 e até hj 9 nada. Já enviei dois e-mail e não m respondem. Muito descaso. Minha filha está pedindo a boneca.,0
 "Comprem sem erro mto bom mesmo
 ",0
@@ -35785,7 +35785,7 @@ Parabéns pelo compromisso com os clientes,0
 Amei!! ,0
 Vcs me mandaram numeração errada,0
 "achei o prazo da entrega um pouco demorado...contudo, suponhoo que a greve dos caminhoneiros deva ter afetado de alguma forma...",0
-"Não recebi o produto, e tento entrar em contato e não consigo sair do atendimento automático ",0
+"Não recebi o produto, e tento entrar em contato e não consigo sair do atendimento automático ",-1
 "Compramos dois cabos VGA, porém chegou penas um, sendo que na nota fiscal também constam duas unidades. Solicitamos que a situação seja resolvida o quanto antes.",0
 "Produto entregue dentro do prazo, em ótimo estado, conforme o esperado! ",0
 FOI MUITO BOM ,0
@@ -35824,7 +35824,7 @@ A entrega FOI SUPER RÁPIDA bem antes do prazo estipulado.Sou 1 consumidor muito
 Atraso na entrega,0
 Recomendo! Entrega antes do prazo. Comprei para proteger meu sofá pois tenho um cachorro. Atendeu as minhas expectativas. Muito bom!,0
 O produto chegou bem antes da data prevista.,0
-"Super leve, porem nas fotos aparenta ser um pouco maior. Pequeno e lindo!",0
+"Super leve, porem nas fotos aparenta ser um pouco maior. Pequeno e lindo!",-1
 "A empresa deveria responder aos e-mail dos cliente 
 Deveria revê essa questão, porque empresa que se comunica com seus cliente passa mais credibilidade e demostra que esta atento ao seu cliente.",0
 "Estou avaliando com 2 estrelas pois o produto veio com problema na palmilha.
@@ -36332,7 +36332,7 @@ Muito bom ,0
 Muito Lindas É muito funcifuncional 👏😍,0
 "PEDIDO 03-497913106
 A entrega ocorreu com atraso e DE FORMA PARCIAL, ou seja, apenas 01 unidade do produto chegou sendo que foi adquirido 02 unidades. Produto de alto valor agregado. Aguardo retorno.",0
-ENTREGARAM O LIVRO ERRADO NÃO CONSIGO CONTACTAR NINGUÉM DA lannister. O SISTEMA NÃO ACEITA QUANDO TENTO CADASTRAR A TROCA PELO LIVRO CORRETO. ENTREM EM CONTATO COMIGO!!,0
+ENTREGARAM O LIVRO ERRADO NÃO CONSIGO CONTACTAR NINGUÉM DA lannister. O SISTEMA NÃO ACEITA QUANDO TENTO CADASTRAR A TROCA PELO LIVRO CORRETO. ENTREM EM CONTATO COMIGO!!,-1
 "Ótima entrega é produto de qualidade.
 ",0
 "Ameiii o produto, já tinha tido outra antes!!",0
@@ -36821,7 +36821,7 @@ Oque aconteceu com o meu pedido ? Me mandaram uma peça totalmente diferente da 
 ",0
 10,0
 "Queria um telefone pra contato, comprei dois cofres só chegou um e sem nota fiscal ",0
-"Só encontrei dificuldade de receber este material, pois tive que ir em duas agencias dos correios para conseguir retirar, mesmo tendo pago o frete para receber em minha residencia.",0
+"Só encontrei dificuldade de receber este material, pois tive que ir em duas agencias dos correios para conseguir retirar, mesmo tendo pago o frete para receber em minha residencia.",-1
 "Ainda não recebi o produto, o que é um transtorno, já que preciso do mesmo para trabalhar. ",0
 Frete grátis para clientes compras realizadas no mesmo ano.,0
 "Tudo Ok.
@@ -37132,7 +37132,7 @@ Entregue a tempo e em condições ,0
 Otimo,0
 oferece um produto e não entrega pode fechar as portas.. e como faço vou ser reembolsado...,0
 "Bom,entregou no prazo",0
-"Comprei tres aparelhos LG, conforme pedido a NF está com 3 produtos e só recebi 2, no mesmo dia entrei em contato e até o momento não obtive nenhuma resposta.",0
+"Comprei tres aparelhos LG, conforme pedido a NF está com 3 produtos e só recebi 2, no mesmo dia entrei em contato e até o momento não obtive nenhuma resposta.",-1
 chegou certinho e dentro do prazo;,0
 Passou o prazo de entrega e até o momento nem uma justificativa... decepção total!!!,0
 "Após a espera de mais de um mês de espera, a data informada de entrega não foi cumprida.",0
@@ -37186,7 +37186,7 @@ O produto foi exatamente o que eu esperava e estava descrito no site e chegou be
 "Só foi entregue a boneca,faltou os panos de pratos és as saias da cama box de solteiro.",0
 "não recebi ainda o produto , gostaria de uma resposta a previsão de entrega seria dia 18/12/17 
 mais anida não recebi",0
-"Recebi apenas 1 unidade solicitada, deveriam ser 2, inclusive foi cobrado e consta na nota fiscal. Estou tentando contato com a loja a 4 dias. Informam que vão me mandar por email o contato do fornece",0
+"Recebi apenas 1 unidade solicitada, deveriam ser 2, inclusive foi cobrado e consta na nota fiscal. Estou tentando contato com a loja a 4 dias. Informam que vão me mandar por email o contato do fornece",-1
 "Ótima loja, entrega antes do prazo!! Super recomendo",0
 achei que o material era mais grosso e a cor que eu pedi veio diferente,0
 "Tudo conforme o esperado,obrigada.",0
@@ -37211,7 +37211,7 @@ Att,
 Francisco",0
 Sempre muito bem atendida!,0
 "Muito bom,entregue no prazo ",0
-"Sempre comprei na americas.com e os pedidos chegavam antes da data prevista, mais este ainda n chegou e nem mandou email nenhum avisando nada.",0
+"Sempre comprei na americas.com e os pedidos chegavam antes da data prevista, mais este ainda n chegou e nem mandou email nenhum avisando nada.",-1
 Eu pedi 2 itens da compra e me foi enviado apenas um,0
 Recomendo é bom,0
 ACHO UM DESCASO COM O CONSUMIDOR ESS TIPO DE ATITUDE,0
@@ -37317,7 +37317,7 @@ as aves responderam muito bem com o produto.,0
 "Muito bom
 ",0
 Adorei a qualidade e o acabamento.,0
-Realizei um pedido com dois itens e apenas 1 deles foi entregue. Fiz algumas reclamações e até agora ninguém entrou em contato comigo pra entregar o outro produto ou para devolver o dinheiro.,0
+Realizei um pedido com dois itens e apenas 1 deles foi entregue. Fiz algumas reclamações e até agora ninguém entrou em contato comigo pra entregar o outro produto ou para devolver o dinheiro.,4
 Recomendo chegou antes do prazo ,0
 Não recebi o produto devolveram a mercadoria sem tentar entrar em contato comigo alegando dificudade de entrega sendo que ja recebi varios produtos nesse endereço,0
 "Pedir uma coisa é Véio foi outra. Não entendi.
@@ -37515,7 +37515,7 @@ Produto de ótima qualidade. Entrega b antes do prazo estabelecido.,0
 ",0
 Recomendo.,0
 Não foi entregue o meu pedido ,0
-"Não consigo falar com ninguém nas lojas lannister, comprei uma placa original e mandaram uma placa compatível...Paralela e não consigo falar com ninguém...apenas um email sem resposta até agora",0
+"Não consigo falar com ninguém nas lojas lannister, comprei uma placa original e mandaram uma placa compatível...Paralela e não consigo falar com ninguém...apenas um email sem resposta até agora",-1
 Por favor verifiquem com os correios. Desde já agradeço,0
 "Recebi no prazo certo, e em perfeitas condições. ",0
 Nao recebi,0
@@ -37698,7 +37698,7 @@ Recebi o produto rapidamente porém veio na cor errada. ,0
 "Recomendo a loja. Produto atende o que eu buscava.
 ",0
 "Estou aguardando meu produto ,dei numero errado mais ja dei o certo e ate agora nao recebi o produto",0
-Recebi até antes da data prevista. Chegou td em ordem,0
+Recebi até antes da data prevista. Chegou td em ordem,-1
 Produto muito bom,0
 Ja falei BOM,0
 produto foi entregue na data limite,0
@@ -37762,7 +37762,7 @@ Entrega rápida e eficiente! ,0
 "Comprei o produto na cor vermelha do anúncio e veio na cor preta. Não solicitarei troca pelo trabalho que vai dar e porque, independentemente da cor, a função na cor preta é a mesma.",0
 "Beleza ,não tenho o que reclamar da loja,tudo que comprei até agora deu certo.Recomendo para qualquer pessoa que queira comprar.",0
 esse produto e de qualidade e muito bom podem comprar ,0
-Produto não foi entregue até o momento e ninguém entrou em contato. ,0
+Produto não foi entregue até o momento e ninguém entrou em contato. ,-1
 Foi entregue bem antes do prazo muito bom isso .,0
 "Entrega rápida, produto bonito mas uma das mesas veio com um pé menor do que o outro. Estou aguardando a empresa resolver este problema.",0
 "Quero saber o que fazer, pois meu produto nao foi entregue .",0
@@ -38384,7 +38384,7 @@ Deu tudo certo! ,0
 Fico no aguardo da reclamação dos Correios.
 Agradeço atenção.",0
 " Primeiro que não entregaram na minha casa, tive que buscar nos correios, e quando eu abri a caixa o armário estava quebrada, totalmente decepcionada 
- Entrei em contato pelo e-mail e não obtive res",0
+ Entrei em contato pelo e-mail e não obtive res",-1
 "lannister está vacilando com a entrega....3 ptoduto q compra que a entrega atrasa, fora os que não chegaram :( muito decepcionada parei com a lannister....",0
 "O produto demorou a ser enviado. Quando foi, a encomenda extraviou. Era pra presente. ",0
 Pessima loja. Passou do.prazo não consigo falar com ninguém,0
@@ -39540,7 +39540,7 @@ Obrigada ,0
 Boa,0
 Produto entregue no prazo.,0
 Os adesivos são muito legal lindos.,0
-O produto chegou até antes da data prevista para a entrega.,0
+O produto chegou até antes da data prevista para a entrega.,-1
 "A loja é ótima porém não recebi meu produto ainda pois os correios alegaram que o endereço não existe quando na verdade varias coisas ja foram entregues nesse endereço, ainda estou na espera.",0
 Entrega rápida...,0
 "Entrega rápida, bem embalado,produto muito bom,só achei que fosse um pouquinho maior, mas é lindo mesmo assim",0
@@ -39567,7 +39567,7 @@ foi bom e chegou rapido!,0
 Loja super responsável e correta recomendo ,0
 valor acessível.... ,0
 Veio em perfeito estado. Chegou 1 dia apos a compra. Adorei,0
-Boa tarde. Comprei dois cobertores. E tive que retirar no correio apenas um. E o outro até agora não chegou. Acho errado pois paguei o frete pra ser entregue no meu endereço. ,0
+Boa tarde. Comprei dois cobertores. E tive que retirar no correio apenas um. E o outro até agora não chegou. Acho errado pois paguei o frete pra ser entregue no meu endereço. ,-1
 "Muito atraso na entrega, sem Feedback com cliente. Espero nunca mais precisar comprar algo nesta loja. Não recomendaria nunca está loja! Estou até com medo de não receber o produto !
 Indignado!!!",0
 Gostei to Satisfeito com a loja e o Produto ,0
@@ -39741,7 +39741,7 @@ A loja é de confiança estou super satisfeita.Recebe todas as figurinhas do alb
 Estou satisfeito!,0
 "Antes do produto chegar estava com medo de ñ ser original pelo preço mais em conta, mas o relógio é 100% original e muito bonito, recomendo",0
 Prazo de entrega longa (18dias) e ainda assim não entregam o produto no prazo. Somente após expirar o prazo é que houve um contato do stark dizendo que não haveria a entrega (jura?) Nunca mais!!!,0
-Só ficou a deseja pelo fato de pagar pelo frete é ter que ir pega nos Correios.,0
+Só ficou a deseja pelo fato de pagar pelo frete é ter que ir pega nos Correios.,-1
 "Esperava o ""Jogo Mini Bilhar Sinuca Snooker Em Madeira"" e foi entrgue o ""Mini Mesa de Pebolim Jogo Futebol Completo já entregue no pedido 2 pela loja Tip.",0
 "excelente, recebi antes do prazo informado.",0
 Comprei duas camas e me foi entregue apenas uma. Entrei em contato ha dois dias e ainda nao me deram qualquer satisfação! GOLPE,0
@@ -39906,7 +39906,7 @@ Vi e revi a foto em monitores e configurações diferentes e em todas a cor do t
 otima loja ,0
 lindo caldeirão,0
 Ótimo produto dentro do combinado!,0
-FIZ UMA COMPRA NA MESMA DE 2 CORTINAS RECEBI UMA . NÃO CONSIGO ENTRAR EM CONTATO PRA RESOLVER O PROBLEMA . MAS AINDA AGUARDO UM RETORNO PRA SOLUCIONAR MEU PROBLEMA . QUEM SABE NÉ ,0
+FIZ UMA COMPRA NA MESMA DE 2 CORTINAS RECEBI UMA . NÃO CONSIGO ENTRAR EM CONTATO PRA RESOLVER O PROBLEMA . MAS AINDA AGUARDO UM RETORNO PRA SOLUCIONAR MEU PROBLEMA . QUEM SABE NÉ ,4
 Na imagem o produto tinha uma aparência mais bonita,0
 Tudo como combinado recomendo ,0
 "Ótimo, chegou super rápido e o produto é do jeitinho que eu esperava!! Muito bom! Recomendo!!",0
@@ -39956,7 +39956,7 @@ Entrega rápida...,0
 Comprei um capacete Branco e veio um Azul.,0
 Produto bom. Chegou antes do prazo. Super recomendo. Atendeu minhas expectativas!!!,0
 "entrega no prazo combinado , porém pedi duas unidades mais entregaram só uma",0
-Produto com material resistente porem marca tamanho G mas achei pequena e larga para o carrinho se colocar uma garrafinha de água nos bolsos laterais acredito que arraste ,0
+Produto com material resistente porem marca tamanho G mas achei pequena e larga para o carrinho se colocar uma garrafinha de água nos bolsos laterais acredito que arraste ,-1
 "recomendo a todos, muito bom !",0
 "Maravilhoso,tudo o que eu queria e a entrega foi no dia seguinte a confirmação da compra ,loja excelente ,bom atendimento chegou em perfeito estado amei muitissimo obrigada.Recomendarei sempre.",0
 "Comprei o kit carrinho e bebê conforto, porém não chegou o bebê conforto. 
@@ -40469,7 +40469,7 @@ tudo muito bem planejado !! Estou muito satisfeita.,0
 Não recebi o produto. Não recomendo. ,0
 Fiz uma ótima compra,0
 Estou a espera do produto a mais de 30 dias meu tel. 7599207310 ,0
-"Pedi e paguei por dois cartuchos, recebi apenas um e não consigo entrar em contato com alguém que me informe como proceder nesse caso.",0
+"Pedi e paguei por dois cartuchos, recebi apenas um e não consigo entrar em contato com alguém que me informe como proceder nesse caso.",-1
 Muito bom,0
 "Chegou antes do prazo, funcionando perfeitamente. Recomendo o produto e a compra nas lannister.",0
 Produto recebido em perfeito estado e no prazo.,0
@@ -40569,7 +40569,7 @@ não indico.,0
 Muito bem atendido,0
 Foi a primeira vez que comprei deste vendedor. Tudo correu conforme o combinado. Bem embalado.,0
 "Ela é bem delicada acho que não vou poder lavar kkkkkk, mais pelo valor pago valeu, o modelo que eu procurava ficou bonita na minha cama",0
-Achamos desfavorável pagar por um frete é ter o desconforto de buscar na agência dos Correios .,0
+Achamos desfavorável pagar por um frete é ter o desconforto de buscar na agência dos Correios .,-1
 "Atendimento excelente, extremamente rápido, produto de ótima qualidade, superou minhas expectativas em todos os aspectos. ",0
 Amei meu peoduto e comprarei muito mas com voces,0
 muuto rapido a entrega ,0
@@ -40721,7 +40721,7 @@ Duas caixas vieram um pouco deformadas (uma caixa dentro da outra) não encaixan
 Não recebi até agora e gostaria de saber o que vou dar de Natal para meu neto.Quando vou receber o meu dinheiro de volta antes do Natal????,0
 Antes do produto chegar falei do critério da entrega... não atenderam. ,0
 O PRODUTO CHEGOU TODO AMASSADO. TÃO AMASSADO QUE VINCOU O ADESIVO E IMPOSSIBILITOU O USO DO PRODUTO. PÉSSIMO.,0
-Nao entregaram o produto e nao entraram em contato para resolver o problema ate o momento.,0
+Nao entregaram o produto e nao entraram em contato para resolver o problema ate o momento.,-1
 ATRASO EXCESSIVO,0
 "Chegou antes do prazo, bem embalado, produto excelente.",0
 Entrega rápida mto contente,0
@@ -40962,7 +40962,7 @@ Fui comunicada do atraso!,0
 "Chegou bem antes do prazo, é lindo qualidade excelente. ",0
 "Boa noite. ... quando fiz o pedido era um kit com 3 , pedi 2 unidades do kit , recebi apenas 2 unidades. .. e não os kits. ",0
 Só acho que deveria ter mais informações ,0
-"Correios = Piada, falaram que foram 3x em casa e não tinha ninguém, mentira pois fica gente lá o dia inteiro, sem contar que quando fui buscar, o horário de atendimento é ridículo, só vagabundo pra ir",0
+"Correios = Piada, falaram que foram 3x em casa e não tinha ninguém, mentira pois fica gente lá o dia inteiro, sem contar que quando fui buscar, o horário de atendimento é ridículo, só vagabundo pra ir",-1
 "Ainda não testei o produto , mas recebi rapidamente.",0
 "não gostei por ter entregado no dia marcado e naõ deram nem uma satisfação pela entrega.
 ",0
@@ -41014,7 +41014,7 @@ MUITO BOM.,0
 "Tive uma surpresa quando abri a embalagem, pois chegou apenas um lado da cortina, mesmo contendo os tamanhos em nenhum momento é mencionado que viria apenas um dos lados, diferente das imagens ...",0
 Comprei um KiT de 3 Almofadas Azul Mandala e recebi um outro com almofadas diferentes (inclusive as cores) Nâo sei lidar com INCOMPETÊNCIA!!!!,0
 Satisfeita com produto e entrega! Agradeço e recomendo! ,0
-"Produto extremamente pequeno e leve, mas que teve um frete muito caro e cada unidade foi enviada em uma pacote separado (para justificar o frete, talvez)",0
+"Produto extremamente pequeno e leve, mas que teve um frete muito caro e cada unidade foi enviada em uma pacote separado (para justificar o frete, talvez)",2
 "Queria saber qndo o produto vai ser entregue, pois já foi pago e nada até agora...",0
 "Recebi o pedido pela metade !!! 
 Já comuniquei lannister sobre ocorrido e aguardo solução do caso !!!",0
@@ -41048,7 +41048,7 @@ muito bom o produto,0
 Ótimo produto muito bom gostei chegou antes do tempo recomendo nota 10000000,0
 Comprei dois cobre leitos e veio apenas um!! Esperando providências das lojas lannister!! Pois foi no site de vcs que comprei!!,0
 falta de comprometimento com o prazo,0
-Eu ainda não recebi meu produto tentei entrar em contato várias vezes e ainda não tive uma resposta das lojas lannister,0
+Eu ainda não recebi meu produto tentei entrar em contato várias vezes e ainda não tive uma resposta das lojas lannister,3
 "ENTREGA ANTES DO PRAZO. MTO CONFORTÁVEL.
 RECOMENDO.",0
 Fiquei super satisfeita com a mercadoria e o vendedor. Eu recomendo,0
@@ -41432,7 +41432,7 @@ E veio 1 só pedi 2 produtos,0
 "Já entrei em contato varias vezes e não me dão retorno. Fiz o pedido dia 24-01-18 e até hoje, dia 09-03-18, não recebi minha encomenda. Uma verdadeira falta de respeito. ",0
 Estou satisfeita com a loja e com o produto. Compra rápida e entrega antes do prazo.,0
 "Produto chegou no prazo, porém sem manual, como se utiliza uma maquina sem o manuel da mesma?. Fiquei um pouco insatisfeito por esse ponto. ",0
-"Passei o dia em casa, na noite fui ver o status da compra e tava que o carteiro não foi atendido, no dia seguinte já estava disponível pra ir buscar nos correios. 1 tentativa e depois correios?",0
+"Passei o dia em casa, na noite fui ver o status da compra e tava que o carteiro não foi atendido, no dia seguinte já estava disponível pra ir buscar nos correios. 1 tentativa e depois correios?",-1
 Detestei a cortina. Totalmente diferente da foto.,0
 produto chegou muito antes do prazo. estipulado pela entrega. ,0
 Muito bom chegou antes do prazo,0
@@ -41766,7 +41766,7 @@ Comprei duas unidades. E vieram em fretes diferentes. Mas chegaram sem problemas
 Chegou bem antes do prazo,0
 "Não vem com nota fiscal, porquê???",0
 "Ocorreu tudo bem com a entrega, a loja é ótima, o único problema foi o atraso dos correios, mas entregaram exatamente no último dia, é que geralmente chega antes as encomendas. Mas é isso. Obrigada.",0
-recebi antes da data prevista e produto de qualidade,0
+recebi antes da data prevista e produto de qualidade,-1
 "Entregue 9 dias antes do previsto.
 Produto de qualidade melhor do que o esperado.",0
 Capa linda!,0
@@ -42279,7 +42279,7 @@ Pedi duas prateleiras e veio somente uma sem aviso prévio,0
 Ex: comprei 02 fogões no Extra, por conta do frete da lannister está maior.
 ",0
 Falta apenas mais instruções como usar os produtos. Se separados ou juntos?,0
-Só não gostei porque tive que ir buscar nos correios sendo que paguei 40r reais de frete,0
+Só não gostei porque tive que ir buscar nos correios sendo que paguei 40r reais de frete,1
 Achei q fosse mais resistente ,0
 "Achei o produto muito bom,recomendo",0
 "Tive problema com estoque, porem foi solucionado, o prazo de entrega é muito longo.",0
@@ -42353,7 +42353,7 @@ O cobertor de microfibra foi entregue antes do prazo em perfeito estado. Gostei,
 Filtra muito bem.Atendeu minhas expectativas,0
 COMPREI ORIGINAL VEIO SIMILAR QUERO MEU DINHEIRO DE VOLTA NF 003566 JA RECLAMEI NO RECLAME AQUI AGORA IREI ATE PROCON,0
 excelente custo beneficio,0
-"A crítica é à entrega, pois por se tratar dos Correios tiveram 3 vezes aqui em casa, sendo que? eu não estava em nenhuma das três, e não me deram a possibilidade de agendar o horário, tive q ir buscar",0
+"A crítica é à entrega, pois por se tratar dos Correios tiveram 3 vezes aqui em casa, sendo que? eu não estava em nenhuma das três, e não me deram a possibilidade de agendar o horário, tive q ir buscar",-1
 "comprei tres produtos, paguei pelo frete de cada um deles e recebi apenas um em casa, os demais fui obrigada a buscar nos correios. Qual a lógica, mesmo vendedor e entregador, fretes individuais e um ",0
 "Produto Bom,porém por falha minha não confirmei as medidas necessárias ;O tamanho menor seria melhor para as minhas necessidades (iluminação da bancada da pia)",0
 ainda nao usei,0
@@ -42758,7 +42758,7 @@ gostaria de devolver o vaso o material eu não gostei.,0
 Bom Dia.Recomendo a todos.Nuuto Bom o produto Veio muito rápido.bMuuto boa qualidade.,0
 O produto ainda não foi entregue ,0
 Mais bonita do que eu esperava. O tecido é lindo e ficou linda na janela. ,0
-A PREVISÃO PARA ENTREGA ERA DIA 12/04. HOJE SÃO 17/04 E AINDA NÃO RECEBI E NÃO CONSIGO RASTREAR O PRODUTO. A EMPRESA ,0
+A PREVISÃO PARA ENTREGA ERA DIA 12/04. HOJE SÃO 17/04 E AINDA NÃO RECEBI E NÃO CONSIGO RASTREAR O PRODUTO. A EMPRESA ,-1
 Produto veio quebrado como fazer a troca ????,0
 "Produto exato, melhor preço da internet, entrega super rápida chegou antes do previsto. ",0
 "Fiquei feliz com a compra, o produto veio exatamente como foi pedido, chegou bem antes do limite do prazo e emperfeitas condições a loja atende muito bem. Eu recomendo! ",0
@@ -43576,7 +43576,7 @@ O produto chegou no prazo e bem embalado,0
 "O produto veio conforme combinado, e com ótima qualidade. ",0
 Otimo vendedor,0
 A minha mercadoria não foi entregue. No correio o status está como foi entregue. Foi entregue somente um informativo falando que em breve o produto seria entregue,0
-"Efetuei o pagamento do boleto, mas o objeto não foi postado. Tentei contatar com eles no site, mas o envio do formulário deu erro. Enviei um e-mail, até agora sem resposta. Não recomendo essa loja.",0
+"Efetuei o pagamento do boleto, mas o objeto não foi postado. Tentei contatar com eles no site, mas o envio do formulário deu erro. Enviei um e-mail, até agora sem resposta. Não recomendo essa loja.",-1
 Comprei uma mochila e gostei muito da minha compra. Veio antes do prazo. ,0
 " ainda não tive tempo de abrir a caixa com a cadeira (verificação da perfeição do produto), Acredito que está tudo bem.",0
 "Tudo correu bem. Entretanto, a pessoa que fez a embalagem poderia ter não passado fita adesiva por cima da Nota Fiscal. Por causa disto, eu não tenho a NF, pois foi toda rasgada. No resto, tudo ok.",0
@@ -43732,7 +43732,7 @@ lannister é o pior site de compras na internet muito enrolado as entregas,0
 Bom,0
 "Muito bom o produto, chegou rapidamente!!",0
 "Insatisfação total. Paguei o produto prontamente, depois de quase um mês recebi a mensagem que o produto estava indisponível.",0
-"Prazo de entrega enorme, produto não entregue e nenhum contato com explicação.",0
+"Prazo de entrega enorme, produto não entregue e nenhum contato com explicação.",-1
 Amei tudo!,0
 A única coisa q eu achei q tinha q ter vindo era o parafuso para instalar....mas do resto eu gostei,0
 "Não recomendo, uma total má prestação do serviço, desrespeito Código de Defesa do Consumidor.",0
@@ -43980,7 +43980,7 @@ Boa compra ,0
 produtoentregue no prazo e amei a qualidade,0
 "Não recebido e ninguém responde os meu email
 Nem a atualizar o acompanhamento pra saber se ainda vou receber minha em comenda",0
-"Recebi o meu pedido incompleto, sendo que, na nota fiscal estão todos os itens. Vou pagar por algo que eu não recebi. Estou tentando contato via e-mail e via telefone e não tive nenhuma resposta.",0
+"Recebi o meu pedido incompleto, sendo que, na nota fiscal estão todos os itens. Vou pagar por algo que eu não recebi. Estou tentando contato via e-mail e via telefone e não tive nenhuma resposta.",-1
 "Atendimento rápido, como também foi a entrega. Parabéns!",0
 "Estava previsto para que o produto chegasse dia 20/04. Dia 03/04 houve uma ""dificuldade na entrega"". Enviei e-mail para a empresa e segundo eles, houve um imprevisto dos correios.O produto não chegou",0
 Produto muito bom. Loja como sempre surpreendendo pelo OTIMO ATENDIMENTO ,0
@@ -44258,7 +44258,7 @@ Muito bom! Entrega antes do prazo! ,0
 Até hoje ainda não recebi a minha compra.
 Tentei entrarem contato com vocês e não consegui.
 Quero que seja devolvido o valor pago, ou a mercadoria com urgência. 
-Aguardando o retorno.",0
+Aguardando o retorno.",-1
 Entrega no prazo. Produto atende prontamente às necessidades da empresa.,0
 "Dwmorou demais e ficou tendo problemas fiz outras compras no mesmo dia e chegou rapido
 ",0
@@ -44284,7 +44284,7 @@ Fiz pedido de sabor CHOCOLATE
 E veio sabor BAUNILHA
 Fiquei muito chateado não conferi o sabor antes de abrir pensei que pudesse confiar em vcs.
 ",0
-Não foi entregue conforme solicitei. Fiz o pedido de 3 malas e recebemos apenas 2. Tentei entrar em contato por e-mail e por telefone e não obtive resposta. ,0
+Não foi entregue conforme solicitei. Fiz o pedido de 3 malas e recebemos apenas 2. Tentei entrar em contato por e-mail e por telefone e não obtive resposta. ,-1
 "O produto é exatamente como na foto, tem uma ótima qualidade, adorei! ",0
 "Produto recebido não possuía as especificações indicadas 
 ",0
@@ -44559,7 +44559,7 @@ Eu acabei de comprar uma TV na lannister com o referido endereço e chegou norma
 Excelente produto e muito rápido na entrega.,0
 Fiz uma compra de um produto e recebi outro produto.,0
 Bom,0
-Produto entregue antes do prazo previso,0
+Produto entregue antes do prazo previso,-1
 Entrega e produto perfeito!!Recomendo com certeza essa loja!!,0
 ñ chegou o produto,0
 Chegou antes do prazo,0
@@ -44760,7 +44760,7 @@ Produto de acordo com o prometido.,0
 ESTOU MUITO INSATISFEITO COM A COMPRA PORQUE ATE AGORA NÃO RECEBI E NEM NOTA FISCAL FOI ENVIADA PARA MIM. JÁ TEM QUASE UM MÊS QUE FOI FEITA A COMPRA. NÃO RECOMENDO. ,0
 "Entregue no prazo , muito bom",0
 "O produto chegou antes da data prevista e é exatamente o que eu tinha imaginado. Adorei as luminárias e recomendo a compra deste produto, pois são lindas e baratas.",0
-Ainda não recebi o produto e não consigo entrar em contato com niguem para resolver isso!,0
+Ainda não recebi o produto e não consigo entrar em contato com niguem para resolver isso!,-1
 Adorei,0
 Não recebi o produto é não consigo rastrear o site está com problema é não tenho como rastrear,0
 "Tive que usar o bônus de troca para comprar esse produto. Na verdade eu queria mesmo era ter recebido o produto que eu havia comprado originalmente, mas como sempre a lannister deu o golpe black frid",0
@@ -44956,7 +44956,7 @@ Cumpriu o prazo e enviou os produtos exibidos. Recomendo.,0
 Show de bola ,0
 Ótimo,0
 "- O PRAZO MÁXIMO ERA DIA 19/03/2018 E HOJE DIA 21/03/2018 ATÉ O PRESENTE MOMENTO NÃO RECEBI A MERCADORIA.
-- SE ALGUÉM ME PERGUNTAR SOBRE A COMPRA EFETUADA , FALAREI QUE NÃO RECEBI!",0
+- SE ALGUÉM ME PERGUNTAR SOBRE A COMPRA EFETUADA , FALAREI QUE NÃO RECEBI!",-1
 "pedi o cancelamento da compra,após informada que não havia deste produto no estoque.",0
 Recebido conforme esperado.,0
 "A única divergência que eu tive foi a atualização do site que não acompanha a logística. Achei que o produto iria demorar para chegar. Fiz um pedido de cancelamento, mas recebi o produto no mesmo dia",0
@@ -45128,7 +45128,7 @@ Só gostaria que meu produto chegasse logo.,0
 Tudo ok!!,0
 Fui muito bem atendida. stark sempre muito atencioso. Parabéns ,0
 Tudo certo com a minha compra.,0
-Tive que ir buscar no correio. Paguei frete p entregar na minha residência!,0
+Tive que ir buscar no correio. Paguei frete p entregar na minha residência!,1
 "Comprei o testomaster mas na embalagem veio super slim...estou aguardando a entiqueta de devolucao.
 ",0
 "O PRODUTO CONSTA COMO ENTREGUE NO DIA 16-08, MAS HOJE DIA 20-08, O PRODUTO AINDA NÃO FOI ENTREGUE.",0
@@ -45155,7 +45155,7 @@ Não chegou uma das minhas mercadorias e estar contando no site que chegou só q
 Muito atenciosos.,0
 Melhorar a precisão da data de recebimento... a data prevista era bem mais tarde.,0
 "Cortina bonita, só não é muito encorpada. Mas, bonita",0
-"Eu efetuei a compra de um pendrive dia 13/02/17, o prazo de entrega era até 14/03/17, porém não foi entregue. Entrei em contato com o stark que me informou que meu produto nem saiu do fornecedor.",0
+"Eu efetuei a compra de um pendrive dia 13/02/17, o prazo de entrega era até 14/03/17, porém não foi entregue. Entrei em contato com o stark que me informou que meu produto nem saiu do fornecedor.",-1
 Amei minha compra. lindaa a capa que peguei 😍😍😍 e resistente. Recomendo ?????,0
 Produto chegou em perfeito estado e atendeu as expectativas,0
 "OS PRODUTOS ANUNCIADOS NÃO CORRESPONDEM AS IMAGENS APRESENTADAS EM SUA DIVULGAÇÃO,PRODUTOS DE PÉSSIMA QUALIDADE, NÃO GOSTEI.",0
@@ -45604,7 +45604,7 @@ muito bom atendimento,0
 "otimo atendimento, otima mercadoria",0
 O produto anunciado não pertence ao EP 450 não está conectando no rádio.,0
 Muito bom,0
-"Muito rápido, chegou bem antes da data prevista, só comprarei das lannister agora. ",0
+"Muito rápido, chegou bem antes da data prevista, só comprarei das lannister agora. ",-1
 já descrito,0
 sem estress.,0
 nada a Reclamar Recebi exatamente como esperava .no plauso certo adorei o produto estou mt satisfeito mt obrigado a Direção ,0
@@ -46084,7 +46084,7 @@ O que aconteceu?????",0
 Alguns cabides chegaram quebrados,0
 Tudo conforme combinado!! Exelente negócio!! recomendo!!!,0
 Ótimo ,0
-Fiz uma compra q foi cancelada por vcs. Tentei por diversas vezes falar com vcs contudo não fui atendido. Não sei pq minha compra foi cancelada? Ninguém entrou em contato e não consigo ser atendido,0
+Fiz uma compra q foi cancelada por vcs. Tentei por diversas vezes falar com vcs contudo não fui atendido. Não sei pq minha compra foi cancelada? Ninguém entrou em contato e não consigo ser atendido,4
 "Muito bom, chegou bem antes do prazo",0
 Ainda não usei o produto mas chegou completo e em 2 dias! Muito rápido!,0
 MERCADORIA ENTREGUE ,0
@@ -46255,7 +46255,7 @@ foram rapidos na entrega e cumpriram com o anuncio.excelente,0
 "Excelente produto, igual ao descrito! Entrega rápida, e negociação boa!",0
 "Amei, ficou muito bonito no meu braço",0
 ótimo produto,0
-"Instalei primeiro o cartucho preto e ao que parece as tintas são de qualidade duvidosa, impressão saindo com falhas, os tubos são diferentes do anúncio, pelo preço pago mais o frete ficou caro.",0
+"Instalei primeiro o cartucho preto e ao que parece as tintas são de qualidade duvidosa, impressão saindo com falhas, os tubos são diferentes do anúncio, pelo preço pago mais o frete ficou caro.",2
 Comprei o produto no dia 13/02 à noite e chegou em 16/02. Bem antes do previsto. Agora minha esposa não precisará me pedir para ajustar a temperatura do chuveiro.(risos) ,0
 Muito bom confiável,0
 "Entrega estava prevista para dia 05/09 e chegou dia 24/08, super rápido!",0
@@ -46510,7 +46510,7 @@ O pircieng chegou amei!!!!,0
 "Lindo e chegou dentro do tempo previsto... o lustre é lindo, amei e super recomendo",0
 "sempre compro no baratheon porem quando se tratam de produtos que eles vendem mas não são entregues por eles nem sempre da tudo certo. enfim, recomendo o baratheon, mas voces podem melhorar isso",0
 "Já se passaram mais de 20 dias da última atualização e não houve qualquer contato para informar o motivo do atraso ou uma nova previsão de entrega.
-",0
+",-1
 Chegou antes do prazo... amei,0
 Até a presente data não recebi o produto e nem nenhuma informação quanto o envio.,0
 "quero agradecer pela atenção que me foi dada, o brinco de argola que pedi não tinha, então a loja entrou em contato comigo e me deu toda a atenção necessária, só tenho a agradecer. Muito obrigada.",0
@@ -47399,7 +47399,7 @@ LOJA ÓTIMA,0
 Produto entregue no praxo estabelecido.,0
 Atrasou apenas um dia pra entrega de todas as peças. Fiquei satisfeita com o produto e com o atendimento ao cliente da loja.,0
 Muito bom a minha compra o produto foi muito bom se viu certo a entrega foi maravilhosa obrigado,0
-"Quando recebi o email para ir buscar o produto na agencia do correio, ele ja tinha retornado ao remetente, ou seja tem um problema de comunicação ai.",0
+"Quando recebi o email para ir buscar o produto na agencia do correio, ele ja tinha retornado ao remetente, ou seja tem um problema de comunicação ai.",-1
 Bom,0
 Nada tenho contra a loja. E recomendo sem sombra de dúvida. Recusei o recebimento do produto porque estava em desacordo com a utilização. Obrigada.,0
 "Entrega rápida, fácil de comprar e produto em ótima condições.obrigada.",0

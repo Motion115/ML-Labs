@@ -1,31 +1,23 @@
-"""
-    Script criado para consolidar classes e funções customizadas para o tratamento de textos e treinamento
-    de modelos de análise de sentimentos.
-"""
-
-"""
---------------------------------------------
----------- IMPORTANDO BIBLIOTECAS ----------
---------------------------------------------
-"""
 import re
 from nltk.corpus import stopwords
 from nltk.stem import RSLPStemmer
 from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
 from sklearn.base import BaseEstimator, TransformerMixin
+import pandas as pd
+import matplotlib as plt
 
 """
 --------------------------------------------
----------- 1. FUNÇÕES PARA REGEX -----------
+---------- 1. 正则表达式函数 -----------
 --------------------------------------------
 """
 def print_step_result(original_data, processed_data, idx_list=None):
     """
-    Args:
+    参数：
     ----------
-    original_data: original data to be printed [type: list, numpy array, pandas series]
-    processed_data: processed data to be printed [type: list, numpy array, pandas series]
-    idx_list: list of indices to be printed (optional) [type: list]
+    original_data: 要打印的原始数据 [type: list, numpy array, pandas series]
+    processed_data: 要打印的处理过的数据 [type: list, numpy array, pandas series]
+    idx_list: 要打印的索引列表（可选） [type: list]
     """
     if idx_list is None:
         idx_list = [0]
@@ -34,53 +26,40 @@ def print_step_result(original_data, processed_data, idx_list=None):
         if i in idx_list:
             print(f"\nOriginal text: {original_text}")
             print(f"Processed text: {processed_text}")
-import pandas as pd
-import matplotlib as plt
-# [RegEx] Padrão para encontrar quebra de linha e retorno de carro (\n ou \r)
+
 def re_breakline(text_list, text_sub=' '):
     """
-    Args:
-    ----------
-    text_list: list object with text content to be prepared [type: list]
-    text_sub: string or pattern to substitute the regex pattern [type: string]
+    去除中断点和回车
+    :param text_list: 要准备的文本内容的列表对象 [type: list]
+    :param text_sub: 字符串或模式，用于替代重码模式 [type: string]
+    :return:
     """
-
     return [re.sub('[\n\r]', text_sub, r) for r in text_list]
 
 
-# [RegEx] Padrão para encontrar sites ou hiperlinks
 def re_hiperlinks(text_list, text_sub=' link '):
     """
-    Args:
-    ----------
-    text_list: list object with text content to be prepared [type: list]
-    text_sub: string or pattern to substitute the regex pattern [type: string]
+    替换网站和超链接为 'link'
     """
 
     pattern = 'http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\(\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+'
     return [re.sub(pattern, text_sub, r) for r in text_list]
 
 
-# [RegEx] Padrão para encontrar datas nos mais diversos formatos (dd/mm/yyyy, dd/mm/yy, dd.mm.yyyy, dd.mm.yy)
+
 def re_dates(text_list, text_sub=' data '):
     """
-    Args:
-    ----------
-    text_list: list object with text content to be prepared [type: list]
-    text_sub: string or pattern to substitute the regex pattern [type: string]
+    替换时间信息为 'data'
     """
 
     pattern = '([0-2][0-9]|(3)[0-1])(\/|\.)(((0)[0-9])|((1)[0-2]))(\/|\.)\d{2,4}'
     return [re.sub(pattern, text_sub, r) for r in text_list]
 
 
-# [RegEx] Padrão para encontrar valores financeiros (R$ ou  $)
+
 def re_money(text_list, text_sub=' dinheiro '):
     """
-    Args:
-    ----------
-    text_list: list object with text content to be prepared [type: list]
-    text_sub: string or pattern to substitute the regex pattern [type: string]
+    替换价格为 'dinheiro'
     """
 
     # Applying regex
@@ -88,13 +67,9 @@ def re_money(text_list, text_sub=' dinheiro '):
     return [re.sub(pattern, text_sub, r) for r in text_list]
 
 
-# [RegEx] Padrão para encontrar números
 def re_numbers(text_list, text_sub=' numero '):
     """
-    Args:
-    ----------
-    text_series: list object with text content to be prepared [type: list]
-    text_sub: string or pattern to substitute the regex pattern [type: string]
+    替换数字为 'numero'
     """
 
     # Applying regex
@@ -104,10 +79,7 @@ def re_numbers(text_list, text_sub=' numero '):
 # [RegEx] Padrão para encontrar a palavra "não" em seus mais diversos formatos
 def re_negation(text_list, text_sub=' negação '):
     """
-    Args:
-    ----------
-    text_series: list object with text content to be prepared [type: list]
-    text_sub: string or pattern to substitute the regex pattern [type: string]
+    替换停用词中否定词为 'negação'
     """
 
     # Applying regex
@@ -117,10 +89,7 @@ def re_negation(text_list, text_sub=' negação '):
 # [RegEx] Padrão para limpar caracteres especiais
 def re_special_chars(text_list, text_sub=' '):
     """
-    Args:
-    ----------
-    text_series: list object with text content to be prepared [type: list]
-    text_sub: string or pattern to substitute the regex pattern [type: string]
+    删除特殊字符
     """
 
     # Applying regex
@@ -130,9 +99,7 @@ def re_special_chars(text_list, text_sub=' '):
 # [RegEx] Padrão para limpar espaços adicionais
 def re_whitespaces(text_list):
     """
-    Args:
-    ----------
-    text_series: list object with text content to be prepared [type: list]
+    删除多余的空格
     """
 
     # Applying regex
@@ -143,17 +110,14 @@ def re_whitespaces(text_list):
 
 """
 --------------------------------------------
------- 2. PROCESSAMENTO DE STOPWORDS -------
+-------------- 2. 去除stopwords ------------
 --------------------------------------------
 """
 
-# [StopWords] Função para remoção das stopwords e transformação de texto em minúsculas
+
 def stopwords_removal(text, cached_stopwords=stopwords.words('portuguese')):
     """
-    Args:
-    ----------
-    text: list object where the stopwords will be removed [type: list]
-    cached_stopwords: stopwords to be applied on the process [type: list, default: stopwords.words('portuguese')]
+    去除止语并将文本转换为小写字母
     """
 
     return [c.lower() for c in text.split() if c.lower() not in cached_stopwords]
@@ -161,17 +125,16 @@ def stopwords_removal(text, cached_stopwords=stopwords.words('portuguese')):
 
 """
 --------------------------------------------
--------- 3. APLICAÇÃO DE STEMMING ----------
+--------------- 3. STEMMING ----------------
 --------------------------------------------
 """
 
-# [Stemming] Função para aplicação de processo de stemming nas palavras
 def stemming_process(text, stemmer=RSLPStemmer()):
     """
-    Args:
-    ----------
-    text: list object where the stopwords will be removed [type: list]
-    stemmer: type of stemmer to be applied [type: class, default: RSLPStemmer()]
+    提取句子主干
+    :param text: list，去除stopwords后的text
+    :param stemmer: stemmer类型
+    :return: 提取过主干后的 text
     """
 
     return [stemmer.stem(c) for c in text.split()]
@@ -179,7 +142,7 @@ def stemming_process(text, stemmer=RSLPStemmer()):
 
 """
 --------------------------------------------
---- 4. EXTRAÇÃO DE FEATURES DE UM CORPUS ---
+---------------- 4. 提取特征 ----------------
 --------------------------------------------
 """
 
@@ -204,22 +167,13 @@ def extract_features_from_corpus(corpus, vectorizer, df=False):
     return corpus_features, df_corpus_features
 
 
-"""
---------------------------------------------
------- 5. DATAVIZ EM ANÁLISE DE TEXTO ------
---------------------------------------------
-"""
 
 # [Viz] Função para retorno de DataFrame de contagem por ngram
 def ngrams_count(corpus, ngram_range, n=-1, cached_stopwords=stopwords.words('portuguese')):
-    """
-    Args
-    ----------
-    corpus: text to be analysed [type: pd.DataFrame]
-    ngram_range: type of n gram to be used on analysis [type: tuple]
-    n: top limit of ngrams to be shown [type: int, default: -1]
-    """
 
+    """
+    通过ngram返回计数DataFrame的函数
+    """
     # Using CountVectorizer to build a bag of words using the given corpus
     vectorizer = CountVectorizer(stop_words=cached_stopwords, ngram_range=ngram_range).fit(corpus)
     bag_of_words = vectorizer.transform(corpus)
@@ -235,7 +189,7 @@ def ngrams_count(corpus, ngram_range, n=-1, cached_stopwords=stopwords.words('po
 
 """
 --------------------------------------------
--------- 6. PIPELINE DE DATA PREP ----------
+---------------- 5. PIPELINE  -------------
 --------------------------------------------
 """
 
@@ -324,22 +278,10 @@ import mpl_toolkits.mplot3d.axes3d as p3
 from matplotlib import animation
 """
 --------------------------------------------
---- 7. UTILITIES FOR SENTIMENT ANALYSIS ----
+----------------- 6. 句子分析 --------------
 --------------------------------------------
 """
 def transform_data(df, ev, tsne=False):
-    '''
-    Apply PowerTransformer(), PCA(), and optionally TSNE() sequentially on dataframe
-
-    Args:
-    df (pd.DataFrame): subject dataframe
-    ev (int, float, None, str): explained variance correspond to `n_components`
-        parameter in PCA() class and hence inherits its arguments
-    tsne (bool) [default=False]: When True, apply TSNE() on dataframe
-
-    Return:
-    X (array): transformed dataframe
-    '''
 
     X = PCA(ev, random_state=42).fit_transform(PowerTransformer().fit_transform(df))
     X_dense = X.toarray()
@@ -349,19 +291,6 @@ def transform_data(df, ev, tsne=False):
 
     return X_dense
 def fit_predict_data(X, n_clusters, est='KMeans'):
-    '''
-    Estimate model parameters and predict labels for input X array
-
-    Args:
-    X (array): input data
-    n_clusters (int): number of clusters to form
-    est (str) [default='KMeans']: estimator to use; 'KMeans' or 'GaussianMixture'
-
-    Return:
-    model (self): fitted estimator
-    labels (array): cluster labels
-    '''
-
     est_dict = {
         'KMeans': KMeans(n_clusters, random_state=42),
         'GaussianMixture': GaussianMixture(n_clusters, random_state=42)}
@@ -371,25 +300,6 @@ def fit_predict_data(X, n_clusters, est='KMeans'):
 
     return model, labels
 def plot_silhouette_analysis(df, ev, n_clusters, est='KMeans', tsne=False):
-    '''
-    Plot silhouette plot and feature space plot on two-columns axes
-
-    Code in this function is obtained from scikit-learn example code
-    titled "plot_kmeans_silhouette_analysis" with some minor changes
-    scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_silhouette_analysis.html
-
-    Args:
-    df (pd.DataFrame): subject dataframe
-    ev (int, float, None, str): explained variance correspond to `n_components`
-        parameter in PCA() class and hence inherits its arguments
-    n_clusters (int): number of clusters to form
-    est (str) [default='KMeans']: estimator to use; 'KMeans' or 'GaussianMixture'
-    tsne (bool) [default=False]: When True, apply TSNE() on dataframe
-
-    Return:
-    None
-    '''
-
     # Apply transformations to data
     X = transform_data(df, ev, tsne)
 
@@ -480,14 +390,6 @@ def plot_silhouette_analysis(df, ev, n_clusters, est='KMeans', tsne=False):
     plt.show()
 # Defining a function to plot the sentiment of a given phrase
 def sentiment_analysis(text, pipeline, vectorizer, model):
-    """
-    Args
-    -----------
-    text: text string / phrase / review comment to be analysed [type: string]
-    pipeline: text prep pipeline built for preparing the corpus [type: sklearn.Pipeline]
-    model: classification model trained to recognize positive and negative sentiment [type: model]
-    """
-
     # Applying the pipeline
     if type(text) is not list:
         text = [text]
